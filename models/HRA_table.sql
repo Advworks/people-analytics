@@ -1,0 +1,1 @@
+SELECT * FROM {{ ref('HR_analytics_cleaned') }}
