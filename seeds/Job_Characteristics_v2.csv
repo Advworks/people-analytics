@@ -1,0 +1,1471 @@
+EmpID,Department,MonthlyIncome,MonthlyRate,DailyRate,HourlyRate,StandardHours,OverTime,SalarySlab,DistanceFromHome,BusinessTravel,PercentSalaryHike
+RM297,Research & Development,1420,25233,230,54,80,No,Upto 5k,3,Travel_Rarely,13
+RM302,Sales,1200,9724,812,69,80,No,Upto 5k,10,Travel_Rarely,12
+RM458,Sales,1878,8059,1306,69,80,Yes,Upto 5k,5,Travel_Frequently,14
+RM728,Research & Development,1051,13493,287,73,80,No,Upto 5k,5,Non-Travel,15
+RM829,Research & Development,1904,13556,247,80,80,No,Upto 5k,8,Non-Travel,12
+RM973,Research & Development,1611,19305,1124,97,80,No,Upto 5k,1,Non-Travel,15
+RM1154,Sales,1569,18420,544,70,80,Yes,Upto 5k,3,Travel_Frequently,12
+RM1312,Research & Development,1514,8018,1431,33,80,No,Upto 5k,14,Non-Travel,16
+RM128,Sales,1675,26820,528,50,80,Yes,Upto 5k,22,Travel_Rarely,19
+RM150,Research & Development,1483,16102,1181,79,80,No,Upto 5k,3,Travel_Rarely,14
+RM172,Sales,2325,20989,602,100,80,No,Upto 5k,1,Travel_Frequently,21
+RM178,Research & Development,1102,9241,303,47,80,No,Upto 5k,2,Travel_Rarely,22
+RM423,Human Resources,2564,18437,489,52,80,No,Upto 5k,2,Travel_Rarely,12
+RM689,Sales,2121,9947,419,37,80,Yes,Upto 5k,21,Travel_Rarely,13
+RM854,Research & Development,2552,7172,645,54,80,No,Upto 5k,9,Travel_Rarely,25
+RM893,Research & Development,1859,6148,504,96,80,Yes,Upto 5k,10,Non-Travel,25
+RM910,Research & Development,2994,21221,265,57,80,Yes,Upto 5k,25,Travel_Rarely,12
+RM103,Research & Development,2926,19783,871,66,80,Yes,Upto 5k,6,Travel_Frequently,18
+RM488,Research & Development,2836,11757,959,83,80,No,Upto 5k,1,Travel_Rarely,13
+RM514,Research & Development,1009,26999,1362,32,80,Yes,Upto 5k,10,Travel_Rarely,11
+RM663,Sales,2044,22052,500,49,80,No,Upto 5k,2,Travel_Rarely,13
+RM690,Research & Development,2973,13008,129,84,80,No,Upto 5k,4,Travel_Rarely,19
+RM732,Research & Development,2600,18275,1097,98,80,Yes,Upto 5k,11,Travel_Rarely,15
+RM777,Sales,2323,17205,769,54,80,Yes,Upto 5k,9,Travel_Frequently,14
+RM857,Research & Development,3033,12828,805,87,80,No,Upto 5k,3,Travel_Rarely,12
+RM877,Sales,2678,5050,654,43,80,No,Upto 5k,21,Travel_Rarely,17
+RM1179,Sales,2783,13251,1141,31,80,No,Upto 5k,2,Travel_Rarely,19
+RM1198,Sales,2728,21082,727,54,80,No,Upto 5k,9,Travel_Rarely,11
+RM024,Research & Development,1232,19281,391,96,80,No,Upto 5k,15,Travel_Rarely,14
+RM275,Research & Development,3230,10531,996,100,80,No,Upto 5k,3,Travel_Rarely,17
+RM358,Sales,2174,9150,756,99,80,Yes,Upto 5k,1,Travel_Frequently,11
+RM363,Sales,2610,2851,895,39,80,No,Upto 5k,9,Non-Travel,24
+RM371,Sales,2716,25422,156,90,80,No,Upto 5k,12,Travel_Rarely,15
+RM497,Sales,3447,24444,1343,49,80,No,Upto 5k,22,Travel_Rarely,11
+RM664,Research & Development,2693,8870,1427,65,80,No,Upto 5k,18,Travel_Rarely,19
+RM778,Research & Development,1416,17258,1334,36,80,No,Upto 5k,10,Travel_Rarely,13
+RM816,Research & Development,2070,25326,984,70,80,Yes,Upto 5k,1,Travel_Rarely,11
+RM916,Research & Development,2625,25308,251,45,80,No,Upto 5k,10,Travel_Frequently,20
+RM1153,Research & Development,3117,26009,546,97,80,No,Upto 5k,5,Travel_Rarely,18
+RM1272,Sales,2679,4567,337,31,80,No,Upto 5k,7,Travel_Rarely,13
+RM1437,Sales,2380,25479,501,58,80,Yes,Upto 5k,5,Travel_Rarely,11
+RM018,Research & Development,2935,7324,1123,96,80,Yes,Upto 5k,16,Non-Travel,13
+RM110,Research & Development,2871,23785,534,59,80,No,Upto 5k,15,Travel_Rarely,15
+RM129,Research & Development,2523,19299,594,100,80,No,Upto 5k,2,Travel_Rarely,14
+RM161,Research & Development,2323,11992,1256,80,80,No,Upto 5k,19,Travel_Rarely,24
+RM207,Research & Development,2328,12392,1136,60,80,Yes,Upto 5k,5,Travel_Rarely,16
+RM384,Research & Development,2244,24440,253,43,80,No,Upto 5k,11,Travel_Rarely,13
+RM444,Research & Development,3894,9129,1368,99,80,No,Upto 5k,4,Travel_Frequently,16
+RM499,Research & Development,2773,12145,604,69,80,No,Upto 5k,6,Travel_Rarely,20
+RM631,Research & Development,4775,19146,1230,33,80,No,Upto 5k,1,Travel_Rarely,22
+RM667,Research & Development,4171,10022,617,34,80,Yes,Upto 5k,3,Travel_Rarely,19
+RM735,Research & Development,2451,6881,217,94,80,No,Upto 5k,8,Travel_Rarely,15
+RM861,Research & Development,2853,4223,1256,48,80,Yes,Upto 5k,3,Travel_Frequently,11
+RM1138,Research & Development,2814,10293,457,85,80,Yes,Upto 5k,26,Non-Travel,14
+RM1274,Research & Development,2398,15999,1294,79,80,Yes,Upto 5k,8,Travel_Rarely,17
+RM1340,Research & Development,2472,26092,391,75,80,Yes,Upto 5k,7,Travel_Rarely,23
+RM1424,Research & Development,3375,17624,581,63,80,No,Upto 5k,1,Travel_Rarely,12
+RM087,Sales,2322,9518,541,62,80,No,Upto 5k,2,Travel_Rarely,13
+RM346,Research & Development,2904,16092,1309,83,80,No,Upto 5k,26,Travel_Rarely,12
+RM517,Research & Development,2819,8544,885,58,80,No,Upto 5k,4,Travel_Rarely,16
+RM551,Research & Development,2500,4344,650,37,80,No,Upto 5k,9,Travel_Rarely,14
+RM566,Research & Development,3505,19630,310,79,80,No,Upto 5k,10,Travel_Rarely,18
+RM586,Research & Development,1601,3445,1243,63,80,Yes,Upto 5k,6,Travel_Rarely,21
+RM911,Research & Development,1223,16901,373,47,80,No,Upto 5k,1,Travel_Rarely,22
+RM1083,Research & Development,2272,24812,507,97,80,No,Upto 5k,20,Travel_Rarely,14
+RM1128,Research & Development,2073,12826,977,45,80,No,Upto 5k,10,Travel_Rarely,16
+RM1202,Research & Development,3989,20586,1320,93,80,Yes,Upto 5k,8,Travel_Rarely,11
+RM1214,Sales,2275,25103,427,99,80,Yes,Upto 5k,7,Travel_Rarely,21
+RM1239,Research & Development,3295,12862,160,51,80,No,Upto 5k,4,Travel_Rarely,13
+RM1409,Research & Development,2647,13672,571,78,80,No,Upto 5k,12,Travel_Rarely,13
+RM1439,Sales,1790,26956,638,33,80,No,Upto 5k,9,Travel_Frequently,19
+RM021,Research & Development,4011,8232,673,96,80,No,Upto 5k,11,Non-Travel,18
+RM035,Research & Development,2293,3020,813,61,80,Yes,Upto 5k,1,Travel_Rarely,16
+RM097,Sales,4999,17519,1353,33,80,No,Upto 5k,3,Travel_Rarely,21
+RM114,Research & Development,2774,13257,1127,52,80,No,Upto 5k,18,Travel_Rarely,12
+RM381,Sales,4260,5915,1371,77,80,Yes,Upto 5k,10,Travel_Rarely,12
+RM415,Sales,3202,21972,1448,62,80,Yes,Upto 5k,1,Travel_Rarely,16
+RM471,Sales,2400,5530,535,38,80,No,Upto 5k,24,Travel_Frequently,13
+RM475,Research & Development,2725,21630,691,89,80,Yes,Upto 5k,23,Travel_Rarely,11
+RM477,Research & Development,2127,9100,823,94,80,No,Upto 5k,17,Travel_Rarely,21
+RM480,Research & Development,2886,14168,1287,55,80,Yes,Upto 5k,7,Travel_Frequently,16
+RM526,Sales,4577,24785,693,65,80,No,Upto 5k,3,Travel_Rarely,14
+RM587,Research & Development,2694,26551,1092,60,80,No,Upto 5k,9,Non-Travel,11
+RM641,Research & Development,3162,10778,1269,46,80,No,Upto 5k,4,Non-Travel,17
+RM725,Research & Development,4377,24117,1206,41,80,No,Upto 5k,17,Travel_Rarely,15
+RM842,Research & Development,3597,6409,477,49,80,No,Upto 5k,24,Travel_Rarely,22
+RM872,Research & Development,2210,3372,984,97,80,No,Upto 5k,17,Travel_Rarely,13
+RM1026,Sales,4162,15211,1476,42,80,Yes,Upto 5k,4,Travel_Rarely,12
+RM1061,Research & Development,3172,16998,381,89,80,Yes,Upto 5k,9,Travel_Frequently,11
+RM1062,Sales,2033,7103,830,78,80,No,Upto 5k,13,Non-Travel,13
+RM1098,Research & Development,2296,10036,350,57,80,No,Upto 5k,21,Travel_Rarely,14
+RM1169,Research & Development,3760,17218,567,32,80,Yes,Upto 5k,2,Travel_Frequently,13
+RM1218,Research & Development,4401,17616,581,62,80,No,Upto 5k,9,Travel_Rarely,16
+RM1223,Human Resources,1555,11585,240,58,80,No,Upto 5k,22,Travel_Rarely,11
+RM1231,Research & Development,3907,3622,506,91,80,No,Upto 5k,29,Travel_Rarely,13
+RM1246,Human Resources,2145,2097,897,59,80,No,Upto 5k,10,Travel_Frequently,14
+RM1408,Research & Development,4617,14120,771,45,80,No,Upto 5k,1,Travel_Rarely,12
+RM108,Sales,5744,26959,240,46,80,Yes,5k-10k,5,Travel_Rarely,11
+RM109,Research & Development,2889,26897,1280,64,80,No,Upto 5k,7,Travel_Rarely,11
+RM139,Sales,8639,24835,959,41,80,No,5k-10k,28,Travel_Rarely,18
+RM256,Research & Development,4898,7505,685,62,80,No,Upto 5k,1,Travel_Rarely,12
+RM268,Research & Development,4000,18384,675,85,80,No,Upto 5k,5,Non-Travel,12
+RM398,Sales,4487,12090,891,99,80,Yes,Upto 5k,4,Travel_Rarely,11
+RM406,Research & Development,4031,9396,688,91,80,No,Upto 5k,3,Travel_Rarely,13
+RM479,Sales,2096,26376,622,40,80,No,Upto 5k,13,Travel_Rarely,11
+RM518,Sales,4851,15678,810,57,80,No,Upto 5k,8,Travel_Rarely,22
+RM564,Sales,6180,22807,883,32,80,No,5k-10k,26,Travel_Rarely,23
+RM619,Research & Development,3424,21632,180,65,80,No,Upto 5k,2,Travel_Rarely,13
+RM635,Sales,4194,14363,141,98,80,Yes,Upto 5k,3,Travel_Rarely,18
+RM639,Sales,4256,18154,583,87,80,No,Upto 5k,4,Travel_Rarely,12
+RM684,Sales,2413,18798,867,36,80,Yes,Upto 5k,19,Travel_Rarely,18
+RM797,Research & Development,3691,4605,1219,32,80,Yes,Upto 5k,4,Travel_Rarely,15
+RM886,Sales,4950,20623,1356,57,80,No,Upto 5k,10,Travel_Rarely,14
+RM912,Sales,1118,8040,599,73,80,Yes,Upto 5k,24,Travel_Frequently,14
+RM935,Research & Development,2096,18830,266,40,80,No,Upto 5k,1,Travel_Rarely,18
+RM966,Research & Development,3669,9075,882,67,80,No,Upto 5k,19,Travel_Rarely,11
+RM994,Sales,6232,12477,1372,93,80,No,5k-10k,18,Travel_Rarely,11
+RM1004,Research & Development,3229,4910,949,81,80,No,Upto 5k,1,Travel_Rarely,11
+RM1022,Sales,4400,15182,383,68,80,No,Upto 5k,9,Travel_Rarely,12
+RM1175,Research & Development,5206,4973,772,77,80,No,5k-10k,2,Travel_Frequently,17
+RM1412,Human Resources,2187,19655,309,82,80,No,Upto 5k,2,Travel_Rarely,14
+RM1414,Research & Development,3977,7298,977,57,80,Yes,Upto 5k,2,Travel_Rarely,19
+RM1434,Sales,4907,13684,1382,85,80,Yes,Upto 5k,8,Travel_Rarely,22
+RM043,Research & Development,2293,10558,1357,48,80,No,Upto 5k,25,Travel_Rarely,12
+RM055,Sales,4157,21436,1443,47,80,Yes,Upto 5k,23,Travel_Rarely,19
+RM126,Research & Development,2368,23300,841,46,80,No,Upto 5k,6,Travel_Rarely,19
+RM135,Human Resources,2942,8916,1355,61,80,No,Upto 5k,25,Travel_Rarely,23
+RM279,Research & Development,6397,26767,1479,84,80,No,5k-10k,1,Travel_Frequently,20
+RM285,Research & Development,4741,22722,496,60,80,Yes,Upto 5k,11,Travel_Frequently,13
+RM289,Research & Development,2373,14180,1449,45,80,Yes,Upto 5k,16,Travel_Rarely,13
+RM294,Sales,5828,8450,950,48,80,Yes,5k-10k,4,Travel_Rarely,12
+RM356,Sales,5296,20156,933,57,80,No,5k-10k,1,Travel_Rarely,17
+RM383,Research & Development,3102,6582,575,73,80,No,Upto 5k,3,Travel_Frequently,22
+RM419,Research & Development,2886,3032,1349,90,80,No,Upto 5k,23,Travel_Rarely,22
+RM454,Human Resources,2741,22808,426,58,80,Yes,Upto 5k,17,Travel_Frequently,11
+RM461,Sales,4306,4267,775,45,80,No,Upto 5k,29,Travel_Rarely,12
+RM464,Research & Development,2340,23213,471,66,80,Yes,Upto 5k,24,Travel_Rarely,18
+RM476,Sales,6272,7428,703,66,80,No,5k-10k,28,Travel_Rarely,20
+RM506,Research & Development,2659,17759,991,71,80,Yes,Upto 5k,6,Travel_Rarely,13
+RM572,Research & Development,4364,5288,575,71,80,No,Upto 5k,1,Travel_Frequently,14
+RM574,Sales,5326,3064,1146,38,80,No,5k-10k,8,Travel_Rarely,17
+RM615,Research & Development,2366,20898,887,88,80,Yes,Upto 5k,5,Travel_Frequently,14
+RM686,Sales,4294,11148,1283,52,80,No,Upto 5k,1,Travel_Frequently,12
+RM734,Research & Development,5472,3334,1066,32,80,No,5k-10k,2,Travel_Rarely,12
+RM749,Sales,4969,21813,265,79,80,No,Upto 5k,29,Non-Travel,18
+RM763,Research & Development,2042,15346,342,57,80,Yes,Upto 5k,2,Travel_Frequently,14
+RM770,Research & Development,2007,25265,921,66,80,No,Upto 5k,1,Travel_Frequently,13
+RM782,Research & Development,3955,11141,192,59,80,No,Upto 5k,1,Travel_Rarely,16
+RM798,Research & Development,2377,19373,1330,37,80,No,Upto 5k,21,Travel_Rarely,20
+RM844,Research & Development,4420,13421,1384,82,80,No,Upto 5k,3,Travel_Rarely,22
+RM913,Research & Development,2875,9973,583,53,80,Yes,Upto 5k,4,Travel_Rarely,20
+RM999,Research & Development,3904,4050,683,36,80,No,Upto 5k,2,Travel_Rarely,12
+RM1005,Research & Development,3578,23577,652,100,80,No,Upto 5k,7,Travel_Rarely,12
+RM1119,Research & Development,2061,11133,474,89,80,No,Upto 5k,3,Travel_Rarely,21
+RM1207,Research & Development,2570,11925,786,76,80,No,Upto 5k,7,Non-Travel,20
+RM1225,Research & Development,2305,6217,390,62,80,No,Upto 5k,17,Travel_Rarely,15
+RM1298,Human Resources,2148,6889,920,69,80,Yes,Upto 5k,20,Travel_Rarely,11
+RM1310,Sales,4684,9125,572,46,80,No,Upto 5k,10,Travel_Rarely,13
+RM1350,Research & Development,2933,14908,482,90,80,Yes,Upto 5k,1,Travel_Rarely,13
+RM1362,Research & Development,2544,7102,1096,61,80,No,Upto 5k,6,Travel_Frequently,18
+RM1387,Research & Development,2867,20006,157,95,80,No,Upto 5k,1,Travel_Rarely,13
+RM1465,Sales,2966,21378,1167,30,80,No,Upto 5k,5,Travel_Rarely,18
+RM005,Research & Development,3468,16632,591,40,80,No,Upto 5k,2,Travel_Rarely,12
+RM042,Research & Development,2341,19715,1240,33,80,No,Upto 5k,2,Travel_Rarely,13
+RM044,Sales,8726,2975,994,37,80,No,5k-10k,8,Travel_Frequently,15
+RM162,Research & Development,2024,5970,691,57,80,No,Upto 5k,9,Non-Travel,18
+RM165,Research & Development,2566,25326,1450,79,80,Yes,Upto 5k,3,Non-Travel,15
+RM171,Research & Development,3058,13364,1157,51,80,Yes,Upto 5k,17,Travel_Rarely,16
+RM192,Research & Development,2279,11781,894,99,80,No,Upto 5k,9,Travel_Rarely,16
+RM201,Research & Development,4298,9679,472,60,80,No,Upto 5k,1,Travel_Frequently,19
+RM213,Sales,9981,12916,1242,90,80,No,5k-10k,20,Travel_Frequently,14
+RM319,Research & Development,2478,20938,1220,85,80,Yes,Upto 5k,5,Travel_Rarely,12
+RM321,Sales,4478,5242,1377,74,80,Yes,Upto 5k,2,Travel_Rarely,11
+RM332,Sales,6349,22107,210,73,80,Yes,5k-10k,1,Non-Travel,13
+RM340,Sales,6214,3415,1130,56,80,No,5k-10k,8,Travel_Rarely,18
+RM374,Research & Development,3816,17881,1469,82,80,No,Upto 5k,1,Travel_Rarely,11
+RM486,Research & Development,2187,5013,798,66,80,No,Upto 5k,6,Travel_Rarely,12
+RM496,Sales,3041,16346,1420,85,80,No,Upto 5k,2,Travel_Rarely,11
+RM513,Research & Development,2045,15174,1115,54,80,No,Upto 5k,3,Travel_Rarely,13
+RM522,Sales,4647,16673,1410,71,80,Yes,Upto 5k,3,Travel_Frequently,20
+RM531,Research & Development,7412,6009,608,68,80,No,5k-10k,1,Travel_Rarely,11
+RM538,Research & Development,8793,4809,294,32,80,No,5k-10k,10,Travel_Frequently,21
+RM555,Research & Development,6811,23398,975,55,80,No,5k-10k,7,Travel_Rarely,19
+RM577,Sales,4342,24008,829,84,80,No,Upto 5k,8,Travel_Frequently,19
+RM611,Research & Development,12808,8842,269,42,80,Yes,10k-15k,5,Travel_Rarely,16
+RM616,Research & Development,1706,16571,443,50,80,No,Upto 5k,3,Non-Travel,11
+RM671,Research & Development,2318,17808,618,76,80,No,Upto 5k,4,Travel_Rarely,19
+RM718,Research & Development,2811,12086,1134,37,80,No,Upto 5k,16,Travel_Rarely,14
+RM740,Research & Development,4227,4658,1055,47,80,No,Upto 5k,2,Travel_Rarely,18
+RM787,Research & Development,4621,5869,1277,87,80,No,Upto 5k,8,Non-Travel,19
+RM834,Research & Development,2539,7950,199,55,80,No,Upto 5k,6,Travel_Rarely,13
+RM890,Research & Development,2235,14377,1103,42,80,Yes,Upto 5k,14,Travel_Rarely,14
+RM903,Research & Development,2517,3208,1167,76,80,No,Upto 5k,4,Travel_Rarely,11
+RM971,Sales,2534,6527,1291,98,80,No,Upto 5k,11,Travel_Rarely,14
+RM975,Sales,5071,20392,793,43,80,No,5k-10k,2,Travel_Frequently,20
+RM997,Sales,5769,7100,205,98,80,Yes,5k-10k,10,Travel_Rarely,11
+RM998,Research & Development,2394,25681,135,51,80,Yes,Upto 5k,17,Travel_Rarely,13
+RM1018,Research & Development,2099,7679,1377,91,80,No,Upto 5k,11,Travel_Rarely,14
+RM1150,Research & Development,4066,16290,1302,67,80,No,Upto 5k,19,Travel_Rarely,11
+RM1170,Research & Development,3517,22490,486,86,80,No,Upto 5k,8,Travel_Rarely,17
+RM1171,Research & Development,2580,6297,591,87,80,No,Upto 5k,2,Travel_Frequently,13
+RM1249,Research & Development,3445,6152,1054,67,80,No,Upto 5k,8,Travel_Rarely,11
+RM1318,Research & Development,2379,19826,1297,53,80,Yes,Upto 5k,5,Travel_Frequently,14
+RM1329,Sales,3540,7018,728,36,80,No,Upto 5k,23,Travel_Rarely,21
+RM1335,Research & Development,4774,23844,1131,77,80,No,Upto 5k,15,Travel_Frequently,19
+RM1351,Sales,6500,26997,511,89,80,No,5k-10k,2,Travel_Rarely,14
+RM1368,Research & Development,2226,6073,1354,41,80,No,Upto 5k,2,TravelRarely,11
+RM1380,Human Resources,2863,19555,1337,58,80,No,Upto 5k,22,Travel_Frequently,12
+RM1394,Sales,4105,5099,954,44,80,No,Upto 5k,9,Travel_Rarely,14
+RM1468,Research & Development,6142,5174,155,87,80,Yes,5k-10k,4,Travel_Rarely,20
+RM015,Research & Development,2028,12947,103,50,80,Yes,Upto 5k,24,Travel_Rarely,14
+RM052,Research & Development,3441,11179,1434,50,80,Yes,Upto 5k,5,Travel_Rarely,13
+RM098,Sales,4221,8863,120,43,80,No,Upto 5k,4,Non-Travel,15
+RM163,Research & Development,2713,6672,440,42,80,No,Upto 5k,21,Travel_Rarely,11
+RM265,Research & Development,3485,14935,529,79,80,No,Upto 5k,2,Travel_Rarely,11
+RM273,Research & Development,2070,2613,1158,94,80,No,Upto 5k,9,Travel_Rarely,23
+RM290,Research & Development,3310,4488,1117,66,80,No,Upto 5k,8,Travel_Rarely,21
+RM303,Research & Development,5661,4824,1476,68,80,No,5k-10k,16,Travel_Rarely,19
+RM324,Research & Development,3464,24737,1157,84,80,Yes,Upto 5k,2,Travel_Rarely,13
+RM375,Sales,5253,20750,304,92,80,No,5k-10k,9,Travel_Rarely,16
+RM405,Research & Development,4558,13535,1300,79,80,No,Upto 5k,17,Travel_Rarely,12
+RM541,Research & Development,2216,3872,654,67,80,Yes,Upto 5k,1,Travel_Rarely,13
+RM599,Research & Development,4382,16374,890,46,80,No,Upto 5k,2,Travel_Rarely,17
+RM613,Sales,4779,3698,760,81,80,Yes,Upto 5k,2,Travel_Rarely,20
+RM630,Human Resources,4936,23965,1169,63,80,No,Upto 5k,8,Travel_Rarely,13
+RM660,Sales,4908,24252,821,98,80,No,Upto 5k,5,Travel_Rarely,14
+RM669,Research & Development,2377,9834,995,77,80,No,Upto 5k,9,Travel_Rarely,18
+RM765,Sales,1052,23384,1144,74,80,No,Upto 5k,10,Travel_Rarely,22
+RM781,Research & Development,8722,12355,1366,72,80,No,5k-10k,24,Non-Travel,12
+RM789,Research & Development,3660,7909,857,59,80,No,Upto 5k,10,Travel_Rarely,13
+RM794,Research & Development,2207,22482,895,50,80,No,Upto 5k,15,Travel_Rarely,16
+RM801,Research & Development,2596,7160,1009,45,80,No,Upto 5k,1,Travel_Frequently,15
+RM810,Research & Development,7655,8039,950,93,80,No,5k-10k,3,Travel_Rarely,17
+RM820,Research & Development,3201,19911,1451,67,80,No,Upto 5k,2,Travel_Rarely,17
+RM828,Research & Development,2703,22088,773,39,80,Yes,Upto 5k,6,Travel_Frequently,14
+RM843,Research & Development,2515,22955,1485,79,80,Yes,Upto 5k,12,Travel_Rarely,11
+RM869,Research & Development,3196,12449,1179,78,80,No,Upto 5k,19,Travel_Rarely,12
+RM922,Research & Development,2154,6842,791,44,80,Yes,Upto 5k,1,Travel_Frequently,11
+RM930,Research & Development,3867,14222,193,52,80,Yes,Upto 5k,2,Travel_Frequently,12
+RM934,Research & Development,2080,4732,640,84,80,No,Upto 5k,1,Travel_Rarely,11
+RM945,Research & Development,6674,16392,1476,55,80,No,5k-10k,1,Non-Travel,11
+RM985,Sales,4724,24232,736,48,80,No,Upto 5k,26,Travel_Rarely,11
+RM1042,Sales,8463,23490,866,84,80,No,5k-10k,5,Travel_Rarely,18
+RM1057,Sales,2909,15747,1496,92,80,No,Upto 5k,1,Travel_Frequently,15
+RM1069,Research & Development,2561,5355,289,38,80,No,Upto 5k,2,Travel_Frequently,11
+RM1070,Research & Development,1563,12530,1423,72,80,No,Upto 5k,1,Travel_Rarely,14
+RM1071,Sales,4898,11827,467,55,80,No,Upto 5k,7,Travel_Frequently,14
+RM1074,Research & Development,6549,3173,1083,96,80,No,5k-10k,29,Travel_Rarely,14
+RM1137,Research & Development,2408,7324,329,51,80,Yes,Upto 5k,24,Travel_Rarely,17
+RM1152,Research & Development,4877,20460,580,39,80,No,Upto 5k,27,Travel_Rarely,21
+RM1284,Research & Development,2044,5531,1181,82,80,No,Upto 5k,1,Travel_Rarely,11
+RM1308,Research & Development,3591,12719,1217,67,80,No,Upto 5k,1,Travel_Rarely,25
+RM1324,Human Resources,2706,10494,280,43,80,No,Upto 5k,1,Non-Travel,15
+RM1338,Sales,2856,3692,1172,78,80,No,Upto 5k,3,Travel_Rarely,19
+RM1365,Sales,6834,19255,783,42,80,Yes,5k-10k,1,Travel_Frequently,12
+RM1370,Sales,9854,23352,1475,84,80,Yes,5k-10k,13,Travel_Rarely,11
+RM1382,Research & Development,2144,2122,1103,49,80,No,Upto 5k,16,Non-Travel,14
+RM1391,Research & Development,2367,18779,1404,32,80,No,Upto 5k,17,Travel_Rarely,12
+RM012,Research & Development,4193,12682,153,49,80,Yes,Upto 5k,15,Travel_Rarely,12
+RM016,Research & Development,9980,10195,1389,51,80,No,5k-10k,21,Travel_Rarely,11
+RM072,Research & Development,2703,4956,1328,76,80,No,Upto 5k,2,Travel_Rarely,23
+RM156,Research & Development,4319,26283,1496,41,80,No,Upto 5k,1,Non-Travel,13
+RM206,Sales,7639,24525,121,35,80,No,5k-10k,27,Travel_Rarely,22
+RM218,Research & Development,2058,19757,992,85,80,No,Upto 5k,1,Travel_Rarely,14
+RM228,Sales,7918,6599,1413,42,80,No,5k-10k,1,Travel_Frequently,14
+RM230,Research & Development,2389,14961,896,86,80,Yes,Upto 5k,18,Travel_Rarely,13
+RM253,Research & Development,2340,22673,665,60,80,No,Upto 5k,15,Travel_Rarely,19
+RM255,Sales,6931,10732,1247,45,80,No,5k-10k,20,Travel_Rarely,14
+RM266,Sales,6644,3687,1210,78,80,No,5k-10k,2,Travel_Rarely,19
+RM283,Sales,4554,20260,442,44,80,No,Upto 5k,2,Travel_Frequently,18
+RM337,Research & Development,2119,4759,318,77,80,Yes,Upto 5k,8,Travel_Rarely,11
+RM338,Research & Development,3983,7621,738,30,80,No,Upto 5k,9,Travel_Rarely,17
+RM344,Sales,8268,11866,144,39,80,Yes,5k-10k,10,Travel_Rarely,14
+RM350,Sales,4649,16928,746,61,80,No,Upto 5k,2,Non-Travel,14
+RM372,Research & Development,2201,18168,1283,54,80,No,Upto 5k,23,Travel_Rarely,16
+RM421,Research & Development,11935,21526,986,93,80,No,10k-15k,3,Travel_Rarely,18
+RM422,Research & Development,2546,18300,408,71,80,No,Upto 5k,25,Travel_Rarely,16
+RM455,Research & Development,4262,22645,232,34,80,No,Upto 5k,19,Travel_Rarely,12
+RM508,Sales,5561,3487,1176,62,80,No,5k-10k,3,Travel_Rarely,14
+RM520,Research & Development,2720,18959,806,76,80,No,Upto 5k,1,Travel_Frequently,18
+RM547,Sales,2642,2755,1396,99,80,No,Upto 5k,10,Travel_Rarely,11
+RM556,Sales,2297,17967,1090,83,80,No,Upto 5k,10,Travel_Rarely,14
+RM573,Research & Development,4335,25549,657,66,80,No,Upto 5k,27,Travel_Rarely,12
+RM590,Research & Development,2319,6689,805,36,80,Yes,Upto 5k,1,Travel_Rarely,11
+RM595,Research & Development,2700,23779,1252,81,80,No,Upto 5k,23,Travel_Rarely,24
+RM646,Sales,2800,23522,341,48,80,Yes,Upto 5k,1,Travel_Rarely,19
+RM658,Research & Development,2532,6054,1086,62,80,No,Upto 5k,7,Travel_Rarely,14
+RM698,Sales,2157,18203,1404,84,80,No,Upto 5k,20,Travel_Frequently,15
+RM712,Research & Development,2404,11479,906,92,80,Yes,Upto 5k,10,Travel_Rarely,20
+RM809,Research & Development,2514,26968,1107,93,80,No,Upto 5k,28,Travel_Rarely,22
+RM824,Research & Development,3291,17940,490,61,80,No,Upto 5k,10,Travel_Frequently,14
+RM826,Research & Development,5056,17689,718,79,80,Yes,5k-10k,8,Travel_Rarely,15
+RM837,Sales,7336,11162,408,45,80,No,5k-10k,23,Travel_Rarely,13
+RM853,Research & Development,3131,26342,1401,54,80,No,Upto 5k,6,Travel_Rarely,13
+RM860,Research & Development,2168,26933,942,69,80,Yes,Upto 5k,15,Travel_Rarely,18
+RM894,Research & Development,3760,5598,1010,97,80,No,Upto 5k,1,Travel_Rarely,15
+RM904,Research & Development,6623,4204,1329,82,80,Yes,5k-10k,7,Travel_Rarely,11
+RM906,Research & Development,16124,3423,694,87,80,No,15k+,1,Travel_Rarely,14
+RM933,Research & Development,3339,17285,806,39,80,Yes,Upto 5k,7,Travel_Rarely,13
+RM1006,Human Resources,7988,9769,332,51,80,No,5k-10k,17,Travel_Rarely,13
+RM1008,Research & Development,7553,22930,337,84,80,Yes,5k-10k,14,Travel_Frequently,12
+RM1058,Sales,5765,17485,115,51,80,No,5k-10k,13,Travel_Frequently,11
+RM1064,Sales,8620,23757,1246,77,80,No,5k-10k,19,Travel_Rarely,14
+RM1073,Research & Development,3180,4668,410,97,80,No,Upto 5k,2,Travel_Frequently,13
+RM1078,Research & Development,2362,7568,224,100,80,No,Upto 5k,1,Travel_Rarely,13
+RM1091,Research & Development,9715,7288,441,39,80,No,5k-10k,8,Travel_Rarely,13
+RM1105,Research & Development,2451,22376,598,91,80,No,Upto 5k,9,Travel_Rarely,18
+RM1123,Research & Development,4723,16213,1370,87,80,Yes,Upto 5k,3,Travel_Rarely,18
+RM1126,Research & Development,8853,24483,995,87,80,No,5k-10k,2,Travel_Frequently,19
+RM1173,Sales,5869,23413,469,42,80,No,5k-10k,10,Travel_Rarely,11
+RM1189,Sales,4187,3356,991,43,80,Yes,Upto 5k,5,Travel_Rarely,13
+RM1220,Research & Development,2974,25412,1082,43,80,No,Upto 5k,9,Travel_Rarely,17
+RM1250,Sales,2760,14630,428,52,80,No,Upto 5k,9,Travel_Rarely,13
+RM1251,Research & Development,6294,23060,461,70,80,Yes,5k-10k,1,Travel_Frequently,12
+RM1259,Research & Development,2109,10007,590,91,80,No,Upto 5k,4,Travel_Rarely,13
+RM1314,Human Resources,2335,3157,350,56,80,Yes,Upto 5k,13,Travel_Rarely,15
+RM1319,Research & Development,3812,7003,574,40,80,No,Upto 5k,20,Travel_Frequently,13
+RM1325,Research & Development,6384,21143,726,93,80,No,5k-10k,29,Travel_Rarely,17
+RM1330,Human Resources,2804,15434,352,87,80,No,Upto 5k,6,TravelRarely,11
+RM1333,Research & Development,2439,14753,459,73,80,Yes,Upto 5k,24,Travel_Frequently,24
+RM1344,Research & Development,2062,19384,592,59,80,No,Upto 5k,7,Travel_Rarely,14
+RM1366,Sales,1091,10642,746,45,80,No,Upto 5k,24,Travel_Frequently,17
+RM1388,Research & Development,5373,6225,136,89,80,No,5k-10k,1,Travel_Rarely,12
+RM1443,Research & Development,4787,26124,1092,36,80,Yes,Upto 5k,1,Travel_Rarely,14
+RM1460,Research & Development,4025,23679,1378,46,80,Yes,Upto 5k,13,Travel_Rarely,13
+RM1461,Research & Development,3785,8489,468,73,80,No,Upto 5k,28,Travel_Rarely,14
+RM008,Research & Development,2693,13335,1358,67,80,No,Upto 5k,24,Travel_Rarely,22
+RM033,Research & Development,2206,16117,125,83,80,No,Upto 5k,9,Travel_Rarely,13
+RM045,Research & Development,4011,10781,721,58,80,No,Upto 5k,1,Travel_Frequently,23
+RM081,Research & Development,5126,15998,852,55,80,Yes,5k-10k,1,Travel_Rarely,12
+RM089,Research & Development,4152,15830,288,99,80,No,Upto 5k,2,Travel_Rarely,19
+RM093,Sales,5209,19760,1334,63,80,Yes,5k-10k,4,Travel_Rarely,12
+RM121,Research & Development,2613,22310,1312,96,80,No,Upto 5k,23,Travel_Frequently,25
+RM140,Human Resources,6347,13982,1240,48,80,Yes,5k-10k,9,Travel_Rarely,19
+RM144,Research & Development,2632,23910,438,75,80,No,Upto 5k,18,Travel_Rarely,14
+RM146,Research & Development,3204,10415,201,84,80,No,Upto 5k,5,Travel_Rarely,14
+RM147,Research & Development,2720,11162,1427,35,80,No,Upto 5k,2,Travel_Rarely,13
+RM168,Sales,9419,8053,1339,41,80,No,5k-10k,5,Travel_Rarely,12
+RM174,Research & Development,3072,11012,111,66,80,No,Upto 5k,9,Non-Travel,11
+RM212,Research & Development,8474,20925,829,88,80,No,5k-10k,1,Non-Travel,22
+RM215,Research & Development,2657,8556,1005,88,80,Yes,Upto 5k,3,Travel_Rarely,11
+RM217,Sales,6696,22967,334,52,80,No,5k-10k,26,Travel_Frequently,15
+RM325,Research & Development,5775,11934,1275,64,80,No,5k-10k,28,Travel_Rarely,13
+RM339,Sales,6118,5431,570,30,80,No,5k-10k,5,Travel_Rarely,13
+RM355,Sales,4736,6069,641,85,80,Yes,Upto 5k,25,Non-Travel,12
+RM382,Sales,2476,17434,202,72,80,No,Upto 5k,2,Travel_Rarely,18
+RM386,Research & Development,2285,3427,464,40,80,Yes,Upto 5k,4,Travel_Frequently,23
+RM403,Sales,6577,19558,1082,83,80,No,5k-10k,12,Travel_Rarely,11
+RM411,Research & Development,6091,24793,317,43,80,No,5k-10k,2,Travel_Rarely,20
+RM420,Research & Development,2097,16734,1400,53,80,No,Upto 5k,3,Non-Travel,15
+RM424,Sales,8412,2890,1398,69,80,No,5k-10k,22,Non-Travel,11
+RM427,Research & Development,2564,7181,1116,49,80,No,Upto 5k,2,Non-Travel,14
+RM438,Sales,2983,18398,413,57,80,No,Upto 5k,7,Travel_Rarely,14
+RM481,Sales,2033,14470,448,74,80,No,Upto 5k,12,Travel_Frequently,18
+RM502,Research & Development,2083,22653,160,71,80,No,Upto 5k,3,Travel_Frequently,20
+RM546,Sales,5304,25275,501,99,80,No,5k-10k,27,Travel_Rarely,23
+RM582,Research & Development,3833,24375,921,38,80,No,Upto 5k,1,Travel_Rarely,21
+RM603,Research & Development,6877,20234,946,52,80,Yes,5k-10k,2,Travel_Rarely,24
+RM624,Research & Development,3761,2373,1012,75,80,No,Upto 5k,5,Travel_Frequently,12
+RM703,Sales,7264,9977,231,62,80,No,5k-10k,8,Travel_Rarely,11
+RM721,Research & Development,2132,11539,138,48,80,Yes,Upto 5k,22,Travel_Rarely,11
+RM731,Research & Development,11416,17802,153,73,80,Yes,10k-15k,8,Travel_Rarely,12
+RM733,Research & Development,2422,25725,109,60,80,No,Upto 5k,5,Travel_Frequently,17
+RM783,Research & Development,9957,9096,1176,85,80,No,5k-10k,20,Travel_Rarely,15
+RM845,Sales,6578,2706,852,72,80,No,5k-10k,10,Travel_Rarely,18
+RM866,Sales,4115,13192,1329,61,80,No,Upto 5k,29,Travel_Rarely,19
+RM875,Research & Development,3491,11309,853,49,80,No,Upto 5k,7,Travel_Rarely,13
+RM887,Research & Development,3579,9369,1465,63,80,Yes,Upto 5k,1,Travel_Rarely,21
+RM932,Research & Development,4695,12858,879,72,80,Yes,Upto 5k,9,Non-Travel,18
+RM942,Research & Development,4627,23631,1138,48,80,No,Upto 5k,6,Travel_Rarely,12
+RM949,Research & Development,11916,25927,634,95,80,Yes,10k-15k,17,Travel_Rarely,23
+RM1014,Sales,4779,12761,855,73,80,No,Upto 5k,7,Travel_Rarely,14
+RM1050,Sales,5301,2939,1358,96,80,No,5k-10k,16,Travel_Rarely,15
+RM1053,Research & Development,1274,7152,990,64,80,No,Upto 5k,7,Non-Travel,13
+RM1065,Human Resources,2064,15428,330,46,80,No,Upto 5k,1,Travel_Rarely,21
+RM1107,Sales,9714,5323,740,64,80,No,5k-10k,1,Travel_Rarely,11
+RM1110,Sales,9250,17799,1288,33,80,No,5k-10k,29,Travel_Rarely,12
+RM1142,Research & Development,2141,5348,241,48,80,No,Upto 5k,7,Travel_Rarely,12
+RM1234,Research & Development,2862,3811,793,33,80,No,Upto 5k,16,Travel_Rarely,12
+RM1245,Research & Development,4968,26427,1312,78,80,No,Upto 5k,2,Travel_Frequently,16
+RM1247,Human Resources,2180,9732,600,66,80,No,Upto 5k,8,Travel_Frequently,11
+RM1252,Sales,7140,3088,979,94,80,No,5k-10k,15,Travel_Rarely,11
+RM1260,Research & Development,5294,9128,305,58,80,No,5k-10k,16,Travel_Rarely,16
+RM1297,Research & Development,9667,2739,1092,64,80,No,5k-10k,10,Travel_Rarely,14
+RM1339,Sales,1081,16019,945,89,80,No,Upto 5k,9,Travel_Rarely,13
+RM1413,Research & Development,3748,4077,911,76,80,No,Upto 5k,1,Travel_Rarely,13
+RM013,Research & Development,2911,15170,670,31,80,No,Upto 5k,26,Travel_Rarely,17
+RM059,Research & Development,5915,9528,655,48,80,No,5k-10k,7,Travel_Rarely,22
+RM073,Research & Development,2501,18775,1082,87,80,No,Upto 5k,1,Travel_Rarely,17
+RM076,Research & Development,4424,20682,746,61,80,No,Upto 5k,8,Travel_Rarely,23
+RM125,Sales,6172,20739,249,76,80,Yes,5k-10k,6,Travel_Rarely,18
+RM133,Sales,4559,24788,542,71,80,Yes,Upto 5k,20,Travel_Rarely,11
+RM181,Research & Development,3929,6984,140,95,80,Yes,Upto 5k,12,Travel_Rarely,23
+RM225,Research & Development,4345,4381,979,90,80,No,Upto 5k,1,Non-Travel,12
+RM246,Research & Development,13675,13523,1327,73,80,No,10k-15k,3,Travel_Frequently,12
+RM260,Research & Development,3479,11652,307,71,80,No,Upto 5k,29,Travel_Frequently,11
+RM267,Research & Development,5582,14408,1463,64,80,No,5k-10k,23,Travel_Rarely,21
+RM293,Sales,2789,3909,444,84,80,No,Upto 5k,5,Travel_Frequently,11
+RM304,Sales,6929,12241,218,100,80,No,5k-10k,7,Travel_Rarely,11
+RM310,Research & Development,4821,10077,691,86,80,Yes,Upto 5k,5,Travel_Rarely,12
+RM311,Human Resources,6410,17822,106,62,80,No,5k-10k,2,Travel_Rarely,12
+RM313,Research & Development,2695,7747,192,32,80,Yes,Upto 5k,2,Travel_Rarely,18
+RM322,Sales,7547,7143,691,73,80,No,5k-10k,7,Travel_Rarely,12
+RM326,Research & Development,8943,14034,798,48,80,No,5k-10k,7,Travel_Frequently,24
+RM343,Research & Development,7143,25713,1232,39,80,Yes,5k-10k,7,Travel_Rarely,14
+RM370,Research & Development,2657,7551,408,42,80,Yes,Upto 5k,9,Travel_Rarely,16
+RM395,Research & Development,4306,4156,480,31,80,No,Upto 5k,7,Travel_Rarely,12
+RM400,Research & Development,2218,16193,329,98,80,No,Upto 5k,1,Travel_Rarely,12
+RM435,Research & Development,10648,14394,1274,33,80,No,10k-15k,9,Travel_Rarely,25
+RM440,Research & Development,9824,22908,534,66,80,No,5k-10k,20,Travel_Frequently,12
+RM451,Sales,6582,8346,828,77,80,Yes,5k-10k,2,Travel_Rarely,13
+RM457,Sales,11557,25291,688,44,80,No,10k-15k,7,Travel_Rarely,21
+RM483,Sales,4233,11512,1365,46,80,No,Upto 5k,13,Travel_Rarely,17
+RM485,Sales,5460,6219,525,66,80,No,5k-10k,6,Travel_Rarely,22
+RM645,Research & Development,2356,14871,1222,48,80,Yes,Upto 5k,11,Travel_Rarely,19
+RM676,Sales,2329,11737,154,41,80,No,Upto 5k,7,Travel_Rarely,15
+RM680,Sales,6932,24406,1188,45,80,No,5k-10k,20,Non-Travel,13
+RM691,Research & Development,5855,17369,616,41,80,Yes,5k-10k,12,Travel_Rarely,11
+RM710,Research & Development,2321,10322,335,46,80,Yes,Upto 5k,9,Non-Travel,22
+RM727,Research & Development,4148,11275,853,96,80,No,Upto 5k,1,Travel_Frequently,12
+RM819,Sales,2791,21981,793,67,80,No,Upto 5k,20,Travel_Frequently,12
+RM832,Research & Development,2610,6233,874,72,80,No,Upto 5k,15,Travel_Frequently,12
+RM896,Research & Development,6833,17089,1332,80,80,Yes,5k-10k,11,Travel_Rarely,12
+RM897,Research & Development,6812,17198,1062,96,80,No,5k-10k,24,Travel_Rarely,19
+RM951,Sales,9852,8935,587,57,80,Yes,5k-10k,2,Non-Travel,19
+RM953,Sales,2302,8319,1060,54,80,Yes,Upto 5k,1,Travel_Frequently,11
+RM981,Sales,2785,11882,703,90,80,No,Upto 5k,2,Travel_Frequently,14
+RM986,Research & Development,6179,21057,330,98,80,Yes,5k-10k,22,Travel_Rarely,15
+RM1013,Sales,1359,16154,667,50,80,No,Upto 5k,1,Travel_Frequently,12
+RM1015,Research & Development,16422,8847,182,93,80,No,15k+,8,Travel_Rarely,11
+RM1017,Research & Development,1261,22262,202,34,80,No,Upto 5k,8,Travel_Rarely,12
+RM1031,Sales,10793,8386,326,31,80,No,10k-15k,8,Travel_Rarely,18
+RM1034,Research & Development,7446,8931,1445,100,80,No,5k-10k,1,Travel_Frequently,11
+RM1036,Human Resources,2109,24609,1398,96,80,No,Upto 5k,8,Travel_Rarely,18
+RM1037,Research & Development,3722,21081,523,94,80,Yes,Upto 5k,2,Travel_Frequently,13
+RM1086,Research & Development,4084,4156,561,33,80,No,Upto 5k,3,Travel_Frequently,12
+RM1145,Sales,5332,21602,715,54,80,No,5k-10k,2,Travel_Frequently,13
+RM1192,Sales,5476,22589,1112,67,80,No,5k-10k,5,Travel_Rarely,11
+RM1228,Research & Development,3477,18103,741,69,80,No,Upto 5k,2,Travel_Rarely,14
+RM1240,Research & Development,5238,6670,163,30,80,No,5k-10k,24,Travel_Frequently,20
+RM1248,Sales,8346,20943,1003,51,80,No,5k-10k,5,Travel_Rarely,19
+RM1258,Sales,8161,19002,1079,70,80,No,5k-10k,16,Travel_Rarely,13
+RM1275,Sales,5468,13402,196,91,80,No,5k-10k,29,Travel_Rarely,14
+RM1307,Sales,9637,8277,1125,68,80,No,5k-10k,7,Travel_Frequently,14
+RM1313,Human Resources,2956,21495,359,89,80,No,Upto 5k,18,Travel_Rarely,17
+RM1342,Research & Development,4197,18624,311,89,80,No,Upto 5k,20,Travel_Rarely,11
+RM1359,Sales,6583,20115,1079,86,80,Yes,5k-10k,10,Travel_Rarely,11
+RM1361,Research & Development,3978,16031,471,62,80,No,Upto 5k,4,Travel_Rarely,12
+RM1383,Research & Development,3065,3995,976,48,80,Yes,Upto 5k,3,Non-Travel,13
+RM1390,Research & Development,5003,5771,1125,48,80,No,5k-10k,1,Travel_Frequently,21
+RM1396,Sales,5617,21075,754,63,80,Yes,5k-10k,26,Travel_Frequently,11
+RM1403,Research & Development,1129,17536,1276,59,80,Yes,Upto 5k,2,Travel_Rarely,11
+RM1406,Research & Development,11031,26862,697,40,80,No,10k-15k,10,Non-Travel,20
+RM1418,Sales,3067,6393,1154,54,80,No,Upto 5k,2,Travel_Rarely,19
+RM1464,Research & Development,9936,3787,325,74,80,No,5k-10k,5,Non-Travel,19
+RM006,Research & Development,3068,11864,1005,79,80,No,Upto 5k,2,Travel_Frequently,13
+RM017,Research & Development,3298,15053,334,80,80,Yes,Upto 5k,5,Travel_Rarely,12
+RM027,Research & Development,3919,4681,1125,72,80,Yes,Upto 5k,16,Travel_Frequently,22
+RM061,Research & Development,6162,10877,427,33,80,Yes,5k-10k,1,Travel_Rarely,22
+RM074,Research & Development,6220,7346,548,66,80,No,5k-10k,1,Travel_Rarely,17
+RM095,Sales,5010,24301,1093,87,80,No,5k-10k,6,Travel_Rarely,16
+RM102,Research & Development,2956,15178,827,71,80,No,Upto 5k,1,Travel_Rarely,13
+RM141,Research & Development,4200,10224,1033,41,80,No,Upto 5k,9,Travel_Rarely,22
+RM145,Sales,4668,22812,689,35,80,No,Upto 5k,9,Travel_Frequently,17
+RM155,Sales,8998,15589,967,43,80,No,5k-10k,8,Travel_Frequently,14
+RM170,Research & Development,3038,12430,120,43,80,No,Upto 5k,6,Travel_Rarely,20
+RM211,Sales,10400,25812,1045,32,80,No,10k-15k,4,Travel_Rarely,11
+RM239,Sales,3931,20990,1401,56,80,No,Upto 5k,4,Travel_Rarely,11
+RM240,Research & Development,3730,9571,515,62,80,Yes,Upto 5k,1,Travel_Rarely,14
+RM242,Sales,4465,12069,976,100,80,No,Upto 5k,26,Non-Travel,18
+RM261,Research & Development,2794,26062,1311,100,80,No,Upto 5k,7,Travel_Frequently,20
+RM263,Research & Development,2176,19737,128,84,80,No,Upto 5k,2,Travel_Rarely,13
+RM307,Sales,5484,16985,906,91,80,No,5k-10k,7,Travel_Rarely,14
+RM320,Sales,5228,24624,588,65,80,Yes,5k-10k,8,Travel_Rarely,11
+RM323,Research & Development,5055,10557,1018,74,80,No,5k-10k,2,Travel_Rarely,16
+RM352,Research & Development,2370,3956,1062,75,80,No,Upto 5k,2,Travel_Rarely,13
+RM470,Sales,4707,23914,1474,60,80,No,Upto 5k,11,Non-Travel,12
+RM501,Research & Development,6322,18089,646,92,80,Yes,5k-10k,9,Travel_Rarely,12
+RM528,Sales,5396,21703,929,55,80,No,5k-10k,10,Travel_Rarely,12
+RM532,Research & Development,11159,19373,1018,39,80,No,10k-15k,3,Travel_Rarely,15
+RM559,Research & Development,5309,21146,430,80,80,No,5k-10k,24,Travel_Frequently,15
+RM601,Research & Development,6162,19124,859,98,80,No,5k-10k,4,Travel_Rarely,12
+RM623,Sales,4403,9250,117,73,80,No,Upto 5k,13,Travel_Rarely,11
+RM627,Research & Development,5175,22162,638,91,80,No,5k-10k,8,Travel_Rarely,12
+RM638,Research & Development,2314,9148,300,61,80,No,Upto 5k,1,Non-Travel,12
+RM642,Sales,6524,8891,379,48,80,No,5k-10k,5,Travel_Frequently,14
+RM657,Research & Development,2795,18016,374,87,80,Yes,Upto 5k,25,Travel_Rarely,24
+RM683,Research & Development,2332,3974,1184,70,80,No,Upto 5k,1,Non-Travel,20
+RM693,Research & Development,6725,13554,498,93,80,No,5k-10k,3,Travel_Rarely,12
+RM757,Research & Development,4025,11135,1109,69,80,No,Upto 5k,29,Non-Travel,12
+RM851,Sales,2827,14947,862,76,80,No,Upto 5k,2,Non-Travel,12
+RM881,Research & Development,2743,7331,116,77,80,No,Upto 5k,13,Travel_Frequently,20
+RM882,Research & Development,4998,2338,1316,38,80,Yes,Upto 5k,2,Travel_Frequently,14
+RM936,Sales,6209,11693,604,56,80,No,5k-10k,8,Travel_Rarely,15
+RM940,Research & Development,4883,22845,1089,79,80,No,Upto 5k,7,Travel_Rarely,18
+RM992,Sales,4078,20497,499,36,80,Yes,Upto 5k,2,Travel_Rarely,13
+RM1027,Sales,9204,23343,601,97,80,No,5k-10k,7,Travel_Rarely,12
+RM1076,Research & Development,11244,21072,495,64,80,No,10k-15k,10,Travel_Rarely,25
+RM1102,Research & Development,5878,15624,824,67,80,No,5k-10k,5,Travel_Rarely,12
+RM1114,Research & Development,4087,25174,1200,62,80,No,Upto 5k,1,Non-Travel,14
+RM1140,Research & Development,3312,18783,634,35,80,No,Upto 5k,5,Travel_Rarely,17
+RM1191,Research & Development,5470,25518,977,45,80,No,5k-10k,2,Travel_Rarely,13
+RM1206,Research & Development,1393,24852,1259,95,80,No,Upto 5k,2,Travel_Rarely,12
+RM1227,Research & Development,3433,17360,585,56,80,No,Upto 5k,10,Travel_Frequently,13
+RM1238,Sales,6735,12147,964,34,80,No,5k-10k,1,Travel_Rarely,15
+RM1242,Sales,9610,3840,371,80,80,No,5k-10k,19,Travel_Rarely,13
+RM1261,Research & Development,2718,17674,953,65,80,No,Upto 5k,5,Non-Travel,14
+RM1320,Sales,4648,26075,1318,79,80,No,Upto 5k,10,Travel_Frequently,13
+RM1327,Sales,9907,26186,414,82,80,Yes,5k-10k,2,Travel_Rarely,12
+RM1376,Research & Development,2432,15318,238,47,80,Yes,Upto 5k,5,Travel_Frequently,14
+RM1389,Research & Development,6667,16542,1146,34,80,No,5k-10k,15,Non-Travel,18
+RM1395,Research & Development,9679,10138,1373,56,80,No,5k-10k,5,Travel_Rarely,24
+RM1427,Research & Development,2837,15919,267,49,80,No,Upto 5k,29,Travel_Rarely,13
+RM1429,Sales,2269,18024,234,68,80,No,Upto 5k,1,Travel_Rarely,14
+RM1432,Sales,10422,24032,801,48,80,No,10k-15k,1,Travel_Rarely,19
+RM1450,Research & Development,2439,11288,529,78,80,No,Upto 5k,2,Travel_Rarely,14
+RM004,Research & Development,2909,23159,1392,56,80,Yes,Upto 5k,3,Travel_Frequently,11
+RM031,Research & Development,2496,6670,924,78,80,No,Upto 5k,2,Travel_Rarely,11
+RM040,Sales,5376,3193,1141,42,80,No,5k-10k,1,Travel_Frequently,19
+RM056,Research & Development,13458,15146,515,98,80,Yes,10k-15k,1,Travel_Frequently,12
+RM122,Sales,6146,15480,750,95,80,No,5k-10k,22,Non-Travel,13
+RM177,Research & Development,2500,10515,134,90,80,No,Upto 5k,2,Travel_Rarely,14
+RM186,Research & Development,2756,4673,931,72,80,No,Upto 5k,14,Travel_Rarely,13
+RM222,Research & Development,2622,13248,147,47,80,No,Upto 5k,4,Travel_Rarely,21
+RM235,Research & Development,2436,22149,813,58,80,Yes,Upto 5k,14,Travel_Rarely,13
+RM237,Research & Development,2707,21509,465,39,80,No,Upto 5k,2,Travel_Rarely,20
+RM247,Research & Development,2911,14776,832,63,80,No,Upto 5k,5,Travel_Rarely,13
+RM314,Research & Development,11878,23364,553,74,80,No,10k-15k,5,Travel_Frequently,11
+RM329,Sales,4682,4317,508,46,80,No,Upto 5k,10,Travel_Frequently,14
+RM364,Sales,2851,9150,350,34,80,Yes,Upto 5k,5,Travel_Rarely,13
+RM436,Research & Development,13610,24619,1277,56,80,Yes,10k-15k,15,Travel_Rarely,12
+RM437,Research & Development,3408,6705,587,38,80,No,Upto 5k,10,Travel_Rarely,13
+RM456,Research & Development,16184,22578,922,95,80,No,15k+,1,Travel_Rarely,19
+RM500,Sales,7104,20431,1216,39,80,No,5k-10k,8,Travel_Rarely,12
+RM510,Research & Development,7725,5335,1296,30,80,No,5k-10k,6,Travel_Frequently,23
+RM515,Research & Development,3348,3164,1076,70,80,Yes,Upto 5k,3,Travel_Frequently,11
+RM563,Research & Development,2686,5207,527,63,80,Yes,Upto 5k,1,Travel_Rarely,13
+RM591,Research & Development,11691,25995,213,49,80,No,10k-15k,7,Travel_Rarely,11
+RM592,Sales,5324,26507,118,69,80,No,5k-10k,16,Travel_Rarely,15
+RM620,Sales,4037,21816,586,48,80,No,Upto 5k,1,Travel_Rarely,22
+RM656,Human Resources,2277,22650,1075,57,80,Yes,Upto 5k,3,Travel_Rarely,11
+RM674,Research & Development,2799,3339,1198,100,80,Yes,Upto 5k,1,Travel_Rarely,11
+RM695,Research & Development,6949,12291,1069,42,80,No,5k-10k,1,Travel_Rarely,14
+RM711,Sales,17444,20489,722,38,80,No,15k+,17,Non-Travel,11
+RM713,Research & Development,3452,17241,461,53,80,No,Upto 5k,13,Travel_Rarely,18
+RM716,Research & Development,5488,20161,827,84,80,Yes,5k-10k,1,Travel_Frequently,13
+RM755,Sales,2342,21437,1038,88,80,No,Upto 5k,8,Non-Travel,19
+RM791,Research & Development,7119,21214,654,34,80,No,5k-10k,5,Travel_Rarely,15
+RM793,Research & Development,4508,3129,827,54,80,No,Upto 5k,29,Travel_Frequently,22
+RM799,Research & Development,2313,2993,1017,55,80,Yes,Upto 5k,25,Travel_Rarely,20
+RM803,Sales,4302,13401,970,30,80,No,Upto 5k,7,Travel_Frequently,17
+RM830,Sales,8224,18385,603,77,80,Yes,5k-10k,9,Travel_Rarely,17
+RM864,Human Resources,3600,8429,147,99,80,No,Upto 5k,2,Travel_Rarely,13
+RM873,Sales,4539,4905,1146,82,80,No,Upto 5k,25,Travel_Frequently,12
+RM884,Research & Development,2781,6311,117,60,80,No,Upto 5k,9,Travel_Rarely,13
+RM909,Sales,8380,21708,536,82,80,Yes,5k-10k,10,Travel_Rarely,14
+RM991,Sales,9998,19293,1111,61,80,No,5k-10k,5,Travel_Frequently,13
+RM1048,Sales,4373,17456,430,54,80,No,Upto 5k,7,Travel_Frequently,14
+RM1067,Research & Development,3838,8192,1099,82,80,No,Upto 5k,4,Travel_Rarely,11
+RM1075,Research & Development,6388,22049,516,69,80,Yes,5k-10k,8,Travel_Rarely,17
+RM1092,Research & Development,4320,24152,575,44,80,No,Upto 5k,25,Travel_Rarely,13
+RM1096,Research & Development,5207,22949,589,79,80,Yes,5k-10k,28,Travel_Rarely,12
+RM1106,Sales,6392,10589,1242,46,80,No,5k-10k,8,Travel_Rarely,13
+RM1190,Sales,5505,3921,392,93,80,No,5k-10k,2,Travel_Rarely,14
+RM1199,Sales,5368,16130,530,36,80,Yes,5k-10k,16,Non-Travel,25
+RM1211,Research & Development,2028,13637,267,79,80,No,Upto 5k,21,Travel_Rarely,18
+RM1254,Sales,5147,10697,1283,62,80,No,5k-10k,2,Non-Travel,15
+RM1256,Sales,8564,10092,211,74,80,Yes,5k-10k,16,Travel_Rarely,20
+RM1266,Research & Development,3055,6194,775,90,80,No,Upto 5k,4,Non-Travel,15
+RM1283,Research & Development,3143,6076,867,90,80,No,Upto 5k,8,Travel_Rarely,19
+RM1364,Sales,5487,10410,217,43,80,No,5k-10k,10,Travel_Rarely,14
+RM1399,Research & Development,5968,18079,1303,36,80,No,5k-10k,7,Travel_Frequently,20
+RM1416,Research & Development,2008,20439,1313,59,80,No,Upto 5k,1,Non-Travel,12
+RM1426,Research & Development,4878,21653,501,95,80,Yes,Upto 5k,15,Travel_Rarely,13
+RM014,Research & Development,2661,8758,1346,93,80,No,Upto 5k,19,TravelRarely,11
+RM023,Research & Development,11994,21293,419,53,80,No,10k-15k,7,TravelRarely,11
+RM025,Research & Development,2960,17102,699,83,80,No,Upto 5k,6,Travel_Rarely,11
+RM047,Sales,4568,10034,1065,72,80,No,Upto 5k,23,Non-Travel,20
+RM085,Research & Development,4325,17736,1153,94,80,No,Upto 5k,1,Travel_Rarely,15
+RM104,Research & Development,4809,12482,665,41,80,No,Upto 5k,6,Travel_Rarely,14
+RM112,Research & Development,6074,22887,658,66,80,Yes,5k-10k,7,Travel_Frequently,24
+RM115,Research & Development,4505,15000,1031,45,80,No,Upto 5k,6,Travel_Rarely,15
+RM117,Research & Development,11631,5615,1354,45,80,No,10k-15k,5,Travel_Rarely,12
+RM160,Sales,2231,11314,303,75,80,No,Upto 5k,2,Travel_Frequently,18
+RM182,Research & Development,2311,5711,629,95,80,No,Upto 5k,27,Travel_Rarely,15
+RM189,Research & Development,9547,14074,1069,45,80,No,5k-10k,2,Travel_Frequently,17
+RM203,Research & Development,3815,5972,878,43,80,Yes,Upto 5k,10,Travel_Frequently,17
+RM248,Research & Development,5957,23687,470,84,80,No,5k-10k,2,Travel_Rarely,13
+RM379,Sales,5304,4652,1362,67,80,Yes,5k-10k,19,Non-Travel,13
+RM394,Sales,6538,12740,1381,72,80,No,5k-10k,4,Non-Travel,15
+RM416,Sales,2351,12253,296,33,80,No,Upto 5k,6,Travel_Frequently,16
+RM433,Research & Development,2768,8416,1303,62,80,No,Upto 5k,2,Travel_Rarely,12
+RM441,Human Resources,9950,11533,988,43,80,Yes,5k-10k,23,Travel_Frequently,15
+RM463,Sales,5337,19921,258,74,80,No,5k-10k,21,Travel_Rarely,12
+RM482,Research & Development,3622,22794,254,83,80,Yes,Upto 5k,1,Travel_Rarely,13
+RM495,Sales,2579,2912,204,31,80,Yes,Upto 5k,14,Travel_Rarely,18
+RM504,Research & Development,2691,7660,1397,42,80,No,Upto 5k,1,Travel_Rarely,12
+RM525,Research & Development,8621,17654,1442,46,80,No,5k-10k,9,Travel_Rarely,14
+RM550,Research & Development,6142,7360,970,96,80,No,5k-10k,8,Travel_Rarely,11
+RM561,Research & Development,5121,4187,167,32,80,No,5k-10k,8,Travel_Rarely,14
+RM568,Sales,6274,18686,304,60,80,No,5k-10k,2,Travel_Rarely,22
+RM575,Research & Development,3280,13551,182,72,80,No,Upto 5k,1,Travel_Rarely,16
+RM580,Research & Development,4381,7530,121,86,80,No,Upto 5k,2,Travel_Rarely,11
+RM584,Sales,6500,13305,1111,93,80,No,5k-10k,8,Travel_Rarely,17
+RM607,Research & Development,2553,8306,702,100,80,No,Upto 5k,16,Travel_Frequently,16
+RM614,Human Resources,3737,2243,829,88,80,No,Upto 5k,3,Travel_Rarely,19
+RM672,Research & Development,2008,6896,546,83,80,No,Upto 5k,10,Travel_Rarely,14
+RM758,Sales,9725,12278,216,75,80,No,5k-10k,1,Travel_Rarely,11
+RM764,Sales,2220,18410,1333,87,80,Yes,Upto 5k,10,Travel_Rarely,19
+RM795,Research & Development,7756,22266,618,45,80,No,5k-10k,3,Travel_Frequently,17
+RM804,Research & Development,2979,22478,697,40,80,No,Upto 5k,3,Non-Travel,17
+RM823,Research & Development,4033,15834,1003,95,80,No,Upto 5k,2,Travel_Frequently,11
+RM835,Sales,5714,5829,1400,70,80,No,5k-10k,9,Travel_Rarely,20
+RM848,Research & Development,5343,25755,669,97,80,No,5k-10k,1,Travel_Frequently,20
+RM907,Research & Development,2585,21643,1320,89,80,No,Upto 5k,20,Travel_Rarely,17
+RM918,Sales,4538,6039,131,86,80,Yes,Upto 5k,2,Travel_Rarely,12
+RM921,Research & Development,4444,22534,135,46,80,No,Upto 5k,19,Travel_Frequently,13
+RM924,Human Resources,4490,21833,648,56,80,No,Upto 5k,11,Travel_Frequently,11
+RM959,Research & Development,8500,5494,943,86,80,No,5k-10k,9,Travel_Rarely,11
+RM965,Sales,6125,23553,507,66,80,No,5k-10k,15,Travel_Rarely,12
+RM978,Research & Development,2029,15891,999,92,80,No,Upto 5k,26,Non-Travel,20
+RM980,Research & Development,5429,17491,285,86,80,No,5k-10k,29,Travel_Rarely,13
+RM984,Research & Development,6687,6163,404,98,80,No,5k-10k,2,Travel_Rarely,11
+RM1016,Research & Development,2996,20284,560,91,80,No,Upto 5k,1,Travel_Frequently,14
+RM1028,Research & Development,3294,3708,401,86,80,No,Upto 5k,1,Travel_Rarely,17
+RM1040,Human Resources,2742,3072,1107,52,80,No,Upto 5k,9,Travel_Rarely,15
+RM1049,Sales,4759,15891,1326,81,80,No,Upto 5k,3,Travel_Rarely,18
+RM1056,Research & Development,17007,11929,829,71,80,No,15k+,15,Travel_Frequently,14
+RM1059,Sales,4599,7815,790,40,80,Yes,Upto 5k,24,Travel_Rarely,23
+RM1085,Sales,7083,12288,971,64,80,Yes,5k-10k,1,Travel_Rarely,14
+RM1088,Sales,2308,4944,1440,55,80,Yes,Upto 5k,7,Travel_Rarely,25
+RM1116,Research & Development,2972,22061,479,35,80,No,Upto 5k,7,Travel_Rarely,13
+RM1118,Research & Development,5484,13008,1351,45,80,No,5k-10k,1,Travel_Rarely,17
+RM1132,Research & Development,5063,15332,653,92,80,No,5k-10k,10,Travel_Frequently,14
+RM1147,Research & Development,4724,17000,426,42,80,No,Upto 5k,10,Travel_Frequently,13
+RM1180,Research & Development,5433,19332,1130,66,80,No,5k-10k,3,Travel_Rarely,12
+RM1209,Research & Development,3986,11912,1157,57,80,No,Upto 5k,5,Travel_Rarely,14
+RM1213,Research & Development,2929,20338,678,35,80,No,Upto 5k,19,Travel_Rarely,12
+RM1253,Research & Development,2932,5586,181,97,80,Yes,Upto 5k,2,Travel_Rarely,14
+RM1268,Sales,4001,12313,1375,87,80,Yes,Upto 5k,10,Non-Travel,14
+RM1271,Sales,6029,25353,511,32,80,No,5k-10k,3,Travel_Rarely,12
+RM1291,Research & Development,5346,6208,234,93,80,No,5k-10k,9,Travel_Frequently,17
+RM1301,Sales,6799,22128,810,92,80,No,5k-10k,8,Travel_Rarely,21
+RM1343,Sales,9713,24444,1480,64,80,Yes,5k-10k,4,Travel_Rarely,13
+RM1354,Research & Development,2307,14460,967,85,80,Yes,Upto 5k,16,Non-Travel,23
+RM1360,Sales,8103,16495,735,75,80,Yes,5k-10k,3,Travel_Rarely,12
+RM1369,Research & Development,5747,26496,735,86,80,Yes,5k-10k,22,Travel_Frequently,15
+RM1385,Sales,9888,6770,937,32,80,No,5k-10k,1,Travel_Rarely,21
+RM1386,Sales,8628,22914,1239,39,80,No,5k-10k,13,Travel_Rarely,18
+RM1447,Sales,6712,8978,704,95,80,No,5k-10k,28,Travel_Rarely,21
+RM1470,Research & Development,4404,10228,628,82,80,No,Upto 5k,8,TravelRarely,12
+RM011,Research & Development,2426,16479,809,84,80,No,Upto 5k,16,Travel_Rarely,13
+RM038,Sales,2014,9687,890,97,80,No,Upto 5k,2,Travel_Rarely,13
+RM041,Research & Development,1951,10910,464,75,80,No,Upto 5k,4,Travel_Rarely,12
+RM050,Research & Development,2269,4892,1229,36,80,No,Upto 5k,8,Travel_Rarely,19
+RM054,Research & Development,9884,8302,1097,79,80,Yes,5k-10k,11,Non-Travel,13
+RM057,Sales,9069,11031,853,71,80,No,5k-10k,18,Travel_Frequently,22
+RM058,Research & Development,4014,16002,1142,30,80,Yes,Upto 5k,23,Travel_Rarely,15
+RM069,Research & Development,2194,5868,664,79,80,No,Upto 5k,1,Travel_Frequently,13
+RM077,Sales,4312,23016,776,32,80,No,Upto 5k,1,Travel_Rarely,14
+RM082,Research & Development,2859,26278,1214,30,80,No,Upto 5k,1,Travel_Rarely,18
+RM152,Sales,7295,11439,662,94,80,No,5k-10k,1,Travel_Rarely,13
+RM193,Research & Development,5916,15497,556,50,80,Yes,5k-10k,23,Travel_Rarely,13
+RM197,Research & Development,4425,15986,138,37,80,No,Upto 5k,2,Travel_Frequently,11
+RM229,Sales,8789,9096,944,92,80,No,5k-10k,1,Travel_Frequently,14
+RM277,Research & Development,11996,19100,1315,71,80,No,10k-15k,22,Travel_Rarely,18
+RM298,Sales,8020,5100,1232,96,80,No,5k-10k,16,Travel_Rarely,15
+RM345,Research & Development,8095,18264,1296,62,80,No,5k-10k,5,Travel_Rarely,13
+RM373,Research & Development,6540,19394,755,97,80,No,5k-10k,9,Travel_Rarely,19
+RM431,Research & Development,4230,19225,144,46,80,No,Upto 5k,22,Travel_Rarely,15
+RM439,Research & Development,7632,14295,1276,72,80,Yes,5k-10k,16,Travel_Rarely,12
+RM448,Sales,4717,18659,619,85,80,No,Upto 5k,1,Travel_Rarely,11
+RM462,Sales,4859,6698,195,80,80,No,Upto 5k,1,Travel_Rarely,16
+RM484,Research & Development,3681,14004,538,54,80,No,Upto 5k,25,Travel_Rarely,14
+RM509,Research & Development,6646,19368,1017,82,80,No,5k-10k,6,Travel_Rarely,13
+RM516,Research & Development,1281,16900,727,41,80,No,Upto 5k,3,Non-Travel,18
+RM558,Research & Development,5093,4761,1225,61,80,No,5k-10k,2,Non-Travel,11
+RM581,Sales,2572,20317,384,72,80,No,Upto 5k,8,Travel_Rarely,16
+RM597,Research & Development,2506,13301,1258,40,80,No,Upto 5k,1,Travel_Rarely,13
+RM612,Research & Development,10221,18869,950,59,80,No,10k-15k,7,Travel_Rarely,21
+RM621,Research & Development,2559,17852,1343,53,80,No,Upto 5k,27,Travel_Rarely,11
+RM636,Research & Development,10685,23457,607,66,80,Yes,10k-15k,9,Travel_Rarely,20
+RM637,Research & Development,2022,16612,130,96,80,Yes,Upto 5k,25,Travel_Frequently,19
+RM648,Research & Development,10903,9129,672,78,80,No,10k-15k,25,Travel_Rarely,16
+RM677,Research & Development,4014,19170,1137,51,80,Yes,Upto 5k,21,Travel_Rarely,25
+RM699,Sales,4601,6179,1219,86,80,No,Upto 5k,18,Travel_Rarely,16
+RM705,Sales,7823,6812,882,92,80,No,5k-10k,3,Travel_Rarely,13
+RM726,Research & Development,3743,10074,622,39,80,Yes,Upto 5k,14,Travel_Rarely,24
+RM730,Research & Development,10388,6975,583,57,80,Yes,10k-15k,25,Travel_Rarely,11
+RM741,Research & Development,3917,9541,802,45,80,No,Upto 5k,10,Travel_Rarely,20
+RM792,Sales,9582,10333,1204,86,80,Yes,5k-10k,4,Travel_Rarely,22
+RM821,Sales,4968,18500,1182,54,80,No,Upto 5k,11,Travel_Frequently,11
+RM836,Human Resources,4323,7108,528,100,80,No,Upto 5k,8,Travel_Rarely,17
+RM841,Research & Development,2258,16340,982,58,80,No,Upto 5k,1,Travel_Rarely,12
+RM847,Research & Development,10274,19588,819,44,80,No,10k-15k,2,Travel_Rarely,18
+RM849,Research & Development,2376,26537,636,47,80,No,Upto 5k,4,Travel_Frequently,13
+RM871,Sales,8966,21026,1361,94,80,Yes,5k-10k,17,Travel_Rarely,15
+RM889,Sales,10377,13755,1212,78,80,Yes,10k-15k,8,Non-Travel,11
+RM925,Research & Development,3506,6020,735,66,80,Yes,Upto 5k,6,Travel_Rarely,14
+RM962,Research & Development,4249,2690,482,87,80,Yes,Upto 5k,4,Travel_Frequently,11
+RM974,Research & Development,5363,10846,817,60,80,No,5k-10k,1,Travel_Rarely,12
+RM982,Sales,4614,23288,662,67,80,Yes,Upto 5k,18,Travel_Frequently,18
+RM1003,Research & Development,9362,19944,200,60,80,No,5k-10k,18,Travel_Frequently,11
+RM1060,Sales,2404,16192,660,76,80,No,Upto 5k,7,Travel_Rarely,13
+RM1082,Research & Development,8606,21195,1029,91,80,No,5k-10k,16,Travel_Rarely,19
+RM1101,Sales,2430,26204,1402,98,80,No,Upto 5k,28,Travel_Rarely,23
+RM1109,Research & Development,2450,21731,992,68,80,No,Upto 5k,1,Travel_Rarely,19
+RM1111,Research & Development,2074,26619,104,69,80,Yes,Upto 5k,2,Travel_Rarely,12
+RM1124,Research & Development,6142,4223,670,51,80,Yes,5k-10k,10,Travel_Rarely,16
+RM1131,Research & Development,3407,25348,750,46,80,No,Upto 5k,28,Travel_Rarely,17
+RM1135,Research & Development,2690,7713,1349,63,80,No,Upto 5k,7,Travel_Rarely,18
+RM1151,Research & Development,5208,26312,819,48,80,No,5k-10k,18,Travel_Rarely,11
+RM1158,Research & Development,4148,12250,208,52,80,No,Upto 5k,8,Non-Travel,12
+RM1163,Sales,10306,21530,737,55,80,No,10k-15k,10,Travel_Rarely,17
+RM1168,Sales,5440,22098,763,59,80,Yes,5k-10k,15,Travel_Rarely,14
+RM1187,Sales,4581,10414,880,36,80,Yes,Upto 5k,12,Travel_Frequently,24
+RM1216,Research & Development,4930,13970,146,79,80,Yes,Upto 5k,2,Travel_Frequently,14
+RM1233,Research & Development,6883,5151,1370,49,80,No,5k-10k,27,Travel_Rarely,16
+RM1282,Sales,5813,13492,303,84,80,Yes,5k-10k,27,Travel_Rarely,18
+RM1289,Research & Development,5762,24442,1180,90,80,No,5k-10k,2,Non-Travel,14
+RM1303,Research & Development,2705,9696,185,91,80,No,Upto 5k,23,Travel_Rarely,16
+RM1346,Research & Development,4788,25388,219,44,80,Yes,Upto 5k,16,Travel_Rarely,11
+RM1381,Sales,5561,15975,682,71,80,No,5k-10k,18,Travel_Rarely,16
+RM1393,Sales,5204,13586,1224,55,80,Yes,5k-10k,7,Travel_Rarely,11
+RM1423,Research & Development,2660,20232,1490,43,80,Yes,Upto 5k,11,TravelRarely,11
+RM1425,Research & Development,5098,18698,1395,48,80,No,5k-10k,9,Travel_Rarely,19
+RM1451,Human Resources,8837,16642,1146,31,80,Yes,5k-10k,26,Travel_Rarely,16
+RM1457,Research & Development,5689,24594,1199,80,80,Yes,5k-10k,18,Travel_Frequently,14
+RM1459,Research & Development,2977,8952,287,62,80,No,Upto 5k,1,Travel_Rarely,12
+RM010,Research & Development,5237,16577,1299,94,80,No,5k-10k,27,Travel_Rarely,13
+RM022,Sales,3407,6986,1218,82,80,No,Upto 5k,9,Travel_Rarely,23
+RM039,Research & Development,3419,13072,852,82,80,Yes,Upto 5k,5,Travel_Rarely,14
+RM065,Research & Development,10096,8202,1223,59,80,No,10k-15k,8,Travel_Rarely,13
+RM067,Research & Development,6499,22656,1195,95,80,No,5k-10k,11,Travel_Frequently,13
+RM070,Research & Development,3388,21777,318,79,80,Yes,Upto 5k,9,Travel_Rarely,17
+RM075,Research & Development,3038,22002,132,55,80,No,Upto 5k,6,Travel_Rarely,12
+RM118,Sales,9738,22952,1467,92,80,No,5k-10k,11,Travel_Frequently,14
+RM119,Research & Development,2835,2561,922,39,80,No,Upto 5k,3,Travel_Rarely,22
+RM136,Research & Development,4941,2819,216,84,80,No,Upto 5k,6,Travel_Rarely,20
+RM173,Research & Development,2088,15062,1480,30,80,No,Upto 5k,3,Travel_Frequently,12
+RM208,Research & Development,2153,7703,635,73,80,No,Upto 5k,18,Travel_Frequently,13
+RM221,Research & Development,5914,9945,1396,62,80,No,5k-10k,5,Travel_Rarely,16
+RM270,Research & Development,3210,20251,1403,47,80,No,Upto 5k,6,Travel_Rarely,11
+RM292,Research & Development,4485,26285,506,30,80,No,Upto 5k,3,Travel_Rarely,12
+RM299,Research & Development,3688,7122,566,81,80,No,Upto 5k,18,Travel_Frequently,18
+RM306,Research & Development,5674,6927,1105,47,80,No,5k-10k,24,Non-Travel,15
+RM359,Sales,6653,15276,845,45,80,No,5k-10k,1,Non-Travel,15
+RM360,Sales,9699,7246,541,48,80,No,5k-10k,3,Travel_Frequently,11
+RM378,Research & Development,2543,11868,329,96,80,No,Upto 5k,2,Travel_Rarely,13
+RM385,Sales,7596,3809,164,61,80,No,5k-10k,2,Travel_Rarely,13
+RM443,Sales,9980,15318,635,32,80,No,5k-10k,10,Non-Travel,14
+RM512,Research & Development,8847,13934,913,48,80,Yes,5k-10k,9,Travel_Rarely,11
+RM542,Research & Development,11713,20335,427,63,80,No,10k-15k,8,Non-Travel,14
+RM570,Sales,7587,14229,1434,76,80,No,5k-10k,8,Non-Travel,15
+RM594,Research & Development,5228,23361,676,35,80,No,5k-10k,1,Travel_Rarely,15
+RM600,Human Resources,2143,25527,1041,36,80,No,Upto 5k,13,Travel_Rarely,13
+RM622,Sales,6201,2823,928,56,80,Yes,5k-10k,1,Travel_Rarely,14
+RM634,Human Resources,2342,8635,1278,77,80,No,Upto 5k,8,Travel_Rarely,21
+RM665,Research & Development,6586,4821,1425,68,80,Yes,5k-10k,14,Travel_Rarely,17
+RM681,Research & Development,4678,23293,188,65,80,No,Upto 5k,7,Travel_Rarely,18
+RM688,Research & Development,2519,12287,938,79,80,No,Upto 5k,2,Travel_Rarely,21
+RM694,Sales,10325,5518,530,51,80,Yes,10k-15k,3,Travel_Rarely,11
+RM709,Sales,5079,25952,1229,84,80,No,5k-10k,8,Non-Travel,13
+RM753,Research & Development,2743,8269,885,43,80,No,Upto 5k,16,Travel_Rarely,16
+RM762,Research & Development,4834,7858,660,81,80,No,Upto 5k,15,Travel_Rarely,14
+RM774,Research & Development,8858,15669,796,51,80,No,5k-10k,12,Travel_Rarely,11
+RM818,Research & Development,7779,23238,217,78,80,No,5k-10k,18,Non-Travel,20
+RM874,Research & Development,2741,6865,917,60,80,No,Upto 5k,6,Travel_Rarely,14
+RM883,Research & Development,10252,4235,363,77,80,Yes,10k-15k,1,Travel_Rarely,21
+RM901,Research & Development,3692,9256,469,46,80,No,Upto 5k,3,Travel_Frequently,12
+RM928,Research & Development,5410,2323,429,53,80,Yes,5k-10k,2,Travel_Rarely,11
+RM943,Research & Development,7094,5747,325,63,80,No,5k-10k,10,Travel_Rarely,12
+RM969,Sales,4639,2261,607,83,80,No,Upto 5k,7,Travel_Frequently,16
+RM1012,Sales,9278,20763,1174,99,80,Yes,5k-10k,3,Travel_Rarely,16
+RM1019,Research & Development,5810,22604,172,37,80,No,5k-10k,4,Travel_Rarely,16
+RM1020,Sales,5647,13494,329,98,80,No,5k-10k,16,Travel_Rarely,13
+RM1103,Sales,2644,17001,1157,70,80,Yes,Upto 5k,2,Travel_Rarely,21
+RM1122,Sales,6815,21447,884,73,80,No,5k-10k,1,Travel_Rarely,13
+RM1129,Research & Development,5562,19711,1302,80,80,Yes,5k-10k,6,Travel_Frequently,13
+RM1146,Research & Development,4663,12421,559,76,80,Yes,Upto 5k,12,Travel_Rarely,12
+RM1174,Research & Development,8008,22792,711,42,80,No,5k-10k,5,Travel_Rarely,12
+RM1181,Research & Development,2013,10950,311,77,80,No,Upto 5k,7,Travel_Rarely,11
+RM1183,Research & Development,4374,15411,894,33,80,No,Upto 5k,1,Non-Travel,15
+RM1184,Research & Development,6842,26308,1040,79,80,No,5k-10k,3,Travel_Rarely,20
+RM1200,Research & Development,5347,7419,1351,80,80,No,5k-10k,26,Travel_Rarely,14
+RM1221,Sales,4502,7439,530,51,80,No,Upto 5k,2,Travel_Rarely,15
+RM1237,Sales,6134,8658,1456,96,80,Yes,5k-10k,13,Travel_Rarely,13
+RM1279,Research & Development,8321,25949,1383,90,80,Yes,5k-10k,10,Travel_Rarely,13
+RM1316,Research & Development,6962,19573,430,73,80,Yes,5k-10k,2,Travel_Rarely,22
+RM1341,Sales,5673,6060,1266,63,80,Yes,5k-10k,10,Travel_Rarely,13
+RM1348,Human Resources,3886,4223,1213,94,80,No,Upto 5k,2,Travel_Frequently,21
+RM1356,Sales,5507,16822,335,33,80,No,5k-10k,17,Travel_Rarely,16
+RM1384,Research & Development,2810,9238,1351,66,80,No,Upto 5k,9,Non-Travel,22
+RM1440,Sales,7644,12695,557,94,80,No,5k-10k,3,Travel_Rarely,19
+RM1441,Research & Development,5131,9192,688,97,80,No,5k-10k,4,Travel_Frequently,13
+RM1448,Sales,5406,10436,301,88,80,No,5k-10k,15,Non-Travel,24
+RM1454,Sales,6652,14369,1120,100,80,No,5k-10k,11,Travel_Rarely,13
+RM1466,Research & Development,2571,12290,884,41,80,No,Upto 5k,23,Travel_Frequently,17
+RM003,Research & Development,2090,2396,1373,92,80,Yes,Upto 5k,2,Travel_Rarely,15
+RM048,Research & Development,3022,10227,408,73,80,No,Upto 5k,19,Travel_Rarely,21
+RM060,Research & Development,5993,2689,1115,51,80,No,5k-10k,1,Travel_Rarely,18
+RM079,Research & Development,13664,25258,397,30,80,No,10k-15k,7,Travel_Rarely,13
+RM101,Human Resources,2073,23648,807,63,80,Yes,Upto 5k,6,Travel_Rarely,22
+RM105,Research & Development,5163,15850,1040,100,80,No,5k-10k,2,Non-Travel,14
+RM116,Sales,7428,14506,1189,87,80,No,5k-10k,3,Travel_Rarely,12
+RM196,Research & Development,3564,22977,290,65,80,Yes,Upto 5k,21,Travel_Rarely,12
+RM223,Research & Development,12185,10056,663,47,80,Yes,10k-15k,11,Travel_Frequently,14
+RM227,Sales,2793,2539,319,41,80,No,Upto 5k,4,Travel_Frequently,17
+RM249,Research & Development,3920,18697,1017,83,80,No,Upto 5k,1,Travel_Rarely,14
+RM251,Research & Development,10048,22573,504,61,80,No,10k-15k,10,Travel_Frequently,11
+RM274,Sales,6502,22825,228,98,80,No,5k-10k,6,Travel_Rarely,14
+RM276,Research & Development,13603,11677,728,80,80,Yes,10k-15k,1,Non-Travel,18
+RM286,Research & Development,2115,15881,1372,42,80,No,Upto 5k,1,Travel_Rarely,12
+RM295,Research & Development,2326,11411,889,53,80,Yes,Upto 5k,9,Travel_Frequently,12
+RM341,Research & Development,6347,23177,1192,61,80,No,5k-10k,5,Travel_Rarely,16
+RM354,Research & Development,5974,17001,1319,51,80,Yes,5k-10k,6,Travel_Rarely,13
+RM365,Research & Development,3452,17663,921,98,80,No,Upto 5k,10,Travel_Rarely,20
+RM387,Research & Development,3034,26914,1107,95,80,No,Upto 5k,14,Travel_Rarely,12
+RM390,Research & Development,4197,21123,1305,49,80,Yes,Upto 5k,10,Travel_Rarely,12
+RM399,Research & Development,4449,23866,1063,72,80,Yes,Upto 5k,25,Non-Travel,15
+RM465,Research & Development,7491,23848,799,59,80,No,5k-10k,1,Travel_Rarely,17
+RM468,Sales,8834,24666,142,69,80,No,5k-10k,9,Non-Travel,13
+RM473,Research & Development,6447,15701,446,65,80,No,5k-10k,1,Travel_Rarely,12
+RM487,Sales,9602,3010,558,75,80,Yes,5k-10k,2,Travel_Rarely,11
+RM507,Research & Development,9434,9606,482,36,80,No,5k-10k,3,Travel_Rarely,15
+RM523,Research & Development,4680,15232,1225,80,80,No,Upto 5k,10,Travel_Rarely,17
+RM578,Research & Development,2782,19905,571,82,80,Yes,Upto 5k,10,Travel_Rarely,13
+RM629,Sales,6334,24558,342,66,80,No,5k-10k,16,Travel_Rarely,19
+RM649,Sales,2973,21222,1231,54,80,No,Upto 5k,21,Travel_Frequently,15
+RM653,Sales,7642,4814,1252,32,80,Yes,5k-10k,19,Non-Travel,13
+RM696,Sales,10609,14922,625,46,80,No,10k-15k,1,Travel_Rarely,11
+RM745,Research & Development,4777,14382,1141,61,80,No,Upto 5k,11,Travel_Rarely,15
+RM768,Research & Development,4107,13848,124,35,80,No,Upto 5k,3,Travel_Rarely,15
+RM796,Sales,6694,24223,309,88,80,Yes,5k-10k,10,Travel_Rarely,14
+RM833,Research & Development,5731,17171,367,52,80,No,5k-10k,25,Travel_Rarely,13
+RM856,Research & Development,6474,9961,977,56,80,No,5k-10k,1,Travel_Rarely,13
+RM990,Research & Development,2996,5182,1439,54,80,Yes,Upto 5k,4,Travel_Rarely,15
+RM1002,Research & Development,3629,19106,1462,94,80,No,Upto 5k,11,Travel_Rarely,18
+RM1023,Research & Development,3500,25470,1413,84,80,No,Upto 5k,5,Non-Travel,14
+RM1090,Research & Development,4285,3031,674,47,80,No,Upto 5k,13,Travel_Rarely,17
+RM1159,Research & Development,5768,26493,671,85,80,No,5k-10k,19,Travel_Rarely,17
+RM1164,Research & Development,3936,9953,1470,71,80,No,Upto 5k,10,Travel_Rarely,11
+RM1212,Sales,9525,7677,1278,31,80,No,5k-10k,1,Travel_Frequently,14
+RM1277,Sales,4189,8800,589,46,80,No,Upto 5k,9,Travel_Rarely,14
+RM1281,Human Resources,4071,12832,1239,89,80,No,Upto 5k,8,Travel_Rarely,13
+RM1292,Research & Development,4213,4992,370,58,80,No,Upto 5k,10,Travel_Rarely,15
+RM1345,Research & Development,4284,13588,783,78,80,Yes,Upto 5k,7,Travel_Rarely,22
+RM1433,Research & Development,13744,15471,161,42,80,Yes,10k-15k,10,Travel_Rarely,25
+RM009,Research & Development,9526,8787,216,44,80,No,5k-10k,23,Travel_Frequently,21
+RM020,Research & Development,3944,4306,371,45,80,Yes,Upto 5k,2,Travel_Rarely,11
+RM062,Research & Development,2406,5456,653,50,80,No,Upto 5k,29,Travel_Frequently,11
+RM084,Research & Development,5329,15717,573,79,80,Yes,5k-10k,6,Non-Travel,12
+RM143,Research & Development,4317,2302,364,32,80,Yes,Upto 5k,3,Travel_Rarely,20
+RM169,Sales,8686,12930,702,59,80,No,5k-10k,1,Travel_Rarely,22
+RM180,Research & Development,2288,6319,1380,75,80,No,Upto 5k,9,Travel_Rarely,12
+RM199,Research & Development,6553,7259,1261,88,80,No,5k-10k,2,Travel_Rarely,14
+RM200,Research & Development,6261,4185,1084,54,80,No,5k-10k,29,Travel_Rarely,18
+RM205,Research & Development,6673,11354,1180,70,80,Yes,5k-10k,29,Travel_Rarely,19
+RM224,Sales,10609,9647,119,76,80,No,10k-15k,3,Travel_Rarely,12
+RM262,Sales,5249,19682,1327,39,80,No,5k-10k,2,Non-Travel,18
+RM278,Sales,5605,19191,322,44,80,Yes,5k-10k,7,Travel_Rarely,24
+RM288,Research & Development,5745,18899,688,82,80,No,5k-10k,23,Travel_Rarely,14
+RM308,Research & Development,12061,26707,849,81,80,No,10k-15k,25,Travel_Rarely,17
+RM342,Research & Development,11510,15682,343,92,80,Yes,10k-15k,15,Travel_Rarely,14
+RM417,Research & Development,1702,12106,1490,42,80,Yes,Upto 5k,2,Travel_Frequently,23
+RM472,Research & Development,9824,22174,1495,76,80,No,5k-10k,10,Travel_Rarely,19
+RM491,Research & Development,2619,14561,362,43,80,No,Upto 5k,1,Travel_Rarely,17
+RM519,Sales,4028,7791,243,46,80,No,Upto 5k,7,Travel_Rarely,20
+RM530,Research & Development,7625,19383,827,33,80,No,5k-10k,1,Travel_Rarely,13
+RM543,Research & Development,7861,15397,168,81,80,Yes,5k-10k,1,Travel_Rarely,14
+RM560,Research & Development,3057,20471,268,92,80,Yes,Upto 5k,2,Travel_Rarely,13
+RM579,Research & Development,5980,26085,240,75,80,Yes,5k-10k,2,Travel_Frequently,12
+RM606,Research & Development,6288,4284,471,45,80,No,5k-10k,12,Travel_Frequently,15
+RM643,Sales,2899,12102,395,98,80,No,Upto 5k,9,Travel_Rarely,19
+RM682,Research & Development,13582,16292,1333,80,80,No,10k-15k,1,Travel_Rarely,13
+RM704,Sales,5666,19899,152,85,80,Yes,5k-10k,10,Non-Travel,13
+RM723,Research & Development,2684,12127,1391,66,80,No,Upto 5k,10,Travel_Frequently,17
+RM748,Sales,6861,4981,1035,42,80,Yes,5k-10k,3,Travel_Rarely,12
+RM766,Research & Development,2821,2997,1186,44,80,No,Upto 5k,3,Travel_Frequently,16
+RM785,Research & Development,8823,24608,330,65,80,No,5k-10k,17,Travel_Rarely,18
+RM808,Sales,8740,5569,770,73,80,Yes,5k-10k,10,Travel_Rarely,14
+RM812,Sales,7351,20619,130,32,80,No,5k-10k,2,Travel_Rarely,16
+RM827,Human Resources,2844,6004,433,37,80,No,Upto 5k,1,Travel_Rarely,13
+RM964,Sales,6893,19461,1009,31,80,No,5k-10k,2,Travel_Rarely,15
+RM983,Research & Development,2610,15748,693,57,80,No,Upto 5k,7,Travel_Frequently,11
+RM1108,Human Resources,6077,14814,888,71,80,No,5k-10k,10,Travel_Frequently,11
+RM1113,Research & Development,4855,7653,903,81,80,No,Upto 5k,2,Travel_Rarely,11
+RM1120,Sales,9924,12355,1245,80,80,No,5k-10k,14,Travel_Rarely,11
+RM1121,Sales,4198,16379,437,90,80,No,Upto 5k,16,Travel_Rarely,12
+RM1162,Research & Development,7756,14199,397,54,80,Yes,5k-10k,2,Travel_Rarely,19
+RM1188,Research & Development,4735,9867,1189,90,80,No,Upto 5k,1,Travel_Frequently,15
+RM1194,Research & Development,2440,23826,148,42,80,No,Upto 5k,2,Travel_Frequently,22
+RM1203,Research & Development,3306,26176,1495,87,80,No,Upto 5k,4,Travel_Rarely,19
+RM1257,Research & Development,2468,15963,594,75,80,No,Upto 5k,2,Travel_Frequently,14
+RM1262,Research & Development,5811,24539,833,60,80,Yes,5k-10k,18,Travel_Rarely,16
+RM1273,Research & Development,3702,16376,1153,40,80,No,Upto 5k,6,Travel_Rarely,11
+RM1290,Human Resources,2592,7129,1336,100,80,No,Upto 5k,2,Non-Travel,13
+RM1309,Sales,5405,4244,723,77,80,Yes,5k-10k,2,Travel_Rarely,20
+RM1374,Research & Development,2133,18115,1394,58,80,Yes,Upto 5k,8,Travel_Frequently,16
+RM1377,Research & Development,4771,14293,1206,71,80,No,Upto 5k,9,Travel_Rarely,19
+RM1392,Sales,2858,11473,1404,59,80,No,Upto 5k,1,Travel_Rarely,14
+RM1401,Human Resources,2991,5224,1444,88,80,Yes,Upto 5k,1,Travel_Frequently,11
+RM1417,Sales,4440,7636,1321,86,80,No,Upto 5k,1,Travel_Rarely,15
+RM1419,Research & Development,5321,14284,508,72,80,No,5k-10k,6,Travel_Frequently,11
+RM1431,Research & Development,13206,3376,201,99,80,No,10k-15k,10,Travel_Rarely,12
+RM1452,Sales,5343,5982,345,100,80,No,5k-10k,10,TravelRarely,11
+RM034,Sales,2086,3335,895,56,80,No,Upto 5k,5,Travel_Rarely,14
+RM138,Sales,5902,14590,1329,47,80,No,5k-10k,4,Travel_Rarely,14
+RM241,Research & Development,2232,15417,1431,96,80,No,Upto 5k,1,Travel_Rarely,14
+RM252,Research & Development,10938,6420,505,64,80,No,10k-15k,2,Travel_Frequently,25
+RM305,Research & Development,9613,10942,1132,48,80,No,5k-10k,1,Travel_Rarely,17
+RM315,Research & Development,17068,5355,117,99,80,Yes,15k+,10,Travel_Rarely,14
+RM327,Research & Development,19272,21141,672,54,80,No,15k+,7,Travel_Frequently,15
+RM328,Sales,5238,17778,1162,41,80,Yes,5k-10k,3,Travel_Rarely,18
+RM401,Research & Development,19197,8213,1218,52,80,Yes,15k+,1,Travel_Frequently,14
+RM450,Research & Development,3755,17872,443,48,80,No,Upto 5k,8,Travel_Frequently,11
+RM527,Research & Development,4553,20978,408,80,80,No,Upto 5k,2,Travel_Rarely,11
+RM552,Human Resources,6389,18767,141,44,80,No,5k-10k,3,Travel_Rarely,15
+RM655,Human Resources,5204,7790,1383,42,80,No,5k-10k,2,Travel_Rarely,11
+RM670,Research & Development,2404,4303,1122,70,80,Yes,Upto 5k,6,Travel_Rarely,21
+RM706,Sales,7880,2560,903,41,80,No,5k-10k,2,Travel_Rarely,18
+RM739,Research & Development,12742,7060,466,65,80,No,10k-15k,1,Travel_Rarely,16
+RM754,Research & Development,10880,5083,945,82,80,Yes,10k-15k,22,Travel_Frequently,13
+RM814,Research & Development,12169,13547,203,84,80,No,10k-15k,2,Travel_Frequently,11
+RM817,Research & Development,6782,8770,439,70,80,No,5k-10k,9,Non-Travel,15
+RM938,Research & Development,17123,17334,412,94,80,Yes,15k+,13,Travel_Rarely,13
+RM941,Research & Development,3904,22154,360,93,80,No,Upto 5k,23,Travel_Rarely,13
+RM950,Research & Development,4534,13352,524,32,80,No,Upto 5k,18,Travel_Rarely,11
+RM987,Sales,6120,3567,1498,44,80,Yes,5k-10k,21,Travel_Rarely,12
+RM993,Research & Development,10920,3449,1485,71,80,No,10k-15k,25,Non-Travel,21
+RM1033,Research & Development,3646,17181,592,54,80,Yes,Upto 5k,2,Non-Travel,23
+RM1080,Research & Development,8376,9150,1089,32,80,No,5k-10k,6,Travel_Rarely,18
+RM1125,Sales,8237,4658,1462,38,80,No,5k-10k,6,Travel_Rarely,11
+RM1149,Research & Development,5377,3835,1387,76,80,No,5k-10k,10,Travel_Rarely,13
+RM1156,Research & Development,3069,10302,170,76,80,No,Upto 5k,3,Travel_Rarely,15
+RM1160,Research & Development,5042,3140,711,81,80,No,5k-10k,4,Travel_Frequently,13
+RM1176,Research & Development,5295,7693,492,66,80,No,5k-10k,12,Travel_Rarely,21
+RM1241,Research & Development,6472,8989,792,77,80,Yes,5k-10k,1,Non-Travel,15
+RM1285,Research & Development,13464,7914,1253,65,80,No,10k-15k,10,Travel_Rarely,21
+RM1293,Sales,4127,19188,766,83,80,No,Upto 5k,20,Travel_Frequently,18
+RM1336,Research & Development,3902,5141,835,41,80,No,Upto 5k,19,Travel_Rarely,14
+RM1367,Sales,5736,3987,1251,32,80,No,5k-10k,21,Non-Travel,19
+RM1373,Research & Development,5151,12315,867,87,80,No,5k-10k,9,Travel_Rarely,25
+RM1404,Sales,13341,25098,119,77,80,No,10k-15k,15,Travel_Rarely,12
+RM1430,Research & Development,4108,5340,116,52,80,No,Upto 5k,24,Travel_Rarely,13
+RM1438,Research & Development,19431,15302,105,87,80,No,15k+,9,Non-Travel,13
+RM1463,Sales,12031,8828,722,60,80,No,10k-15k,24,Travel_Rarely,11
+RM1467,Research & Development,9991,21457,613,42,80,No,5k-10k,6,Travel_Rarely,15
+RM091,Research & Development,13503,14115,530,78,80,No,10k-15k,1,Travel_Frequently,22
+RM151,Research & Development,5605,8504,1395,54,80,No,5k-10k,26,Travel_Frequently,11
+RM159,Sales,10855,8552,630,67,80,No,10k-15k,4,Travel_Rarely,11
+RM187,Research & Development,19033,6499,989,46,80,No,15k+,4,Travel_Rarely,14
+RM204,Research & Development,2741,16523,905,99,80,Yes,Upto 5k,19,Travel_Rarely,15
+RM209,Research & Development,4876,14242,1151,63,80,No,Upto 5k,9,Non-Travel,14
+RM244,Research & Development,3319,24447,1300,62,80,No,Upto 5k,24,Travel_Rarely,17
+RM258,Research & Development,19436,5949,1416,49,80,No,15k+,2,Travel_Rarely,19
+RM336,Sales,7457,13273,1124,57,80,Yes,5k-10k,1,Travel_Rarely,22
+RM362,Research & Development,2213,22495,1171,46,80,Yes,Upto 5k,10,Travel_Rarely,13
+RM369,Sales,6380,6110,575,68,80,Yes,5k-10k,22,Travel_Rarely,12
+RM388,Sales,5715,22553,759,46,80,No,5k-10k,2,Travel_Rarely,12
+RM392,Research & Development,3448,13436,555,78,80,No,Upto 5k,2,Travel_Rarely,22
+RM418,Sales,18041,13022,1398,79,80,No,15k+,2,Travel_Rarely,14
+RM449,Research & Development,13237,20364,302,75,80,No,10k-15k,6,Travel_Rarely,15
+RM459,Sales,10932,11373,1094,58,80,No,10k-15k,28,Non-Travel,15
+RM534,Sales,10475,23772,580,48,80,Yes,10k-15k,5,Travel_Frequently,21
+RM554,Research & Development,2342,22929,804,86,80,Yes,Upto 5k,2,Travel_Rarely,20
+RM583,Research & Development,4244,9931,791,38,80,No,Upto 5k,2,Travel_Frequently,24
+RM602,Research & Development,5094,11983,720,51,80,No,5k-10k,16,Travel_Frequently,14
+RM685,Sales,9705,20652,658,67,80,No,5k-10k,10,Travel_Rarely,12
+RM692,Research & Development,3617,25063,1469,35,80,Yes,Upto 5k,9,Travel_Frequently,14
+RM707,Sales,13194,17071,1479,100,80,Yes,10k-15k,24,Non-Travel,16
+RM769,Sales,8396,22217,300,74,80,No,5k-10k,26,Travel_Rarely,14
+RM786,Research & Development,10322,26542,1492,61,80,No,10k-15k,20,Travel_Rarely,20
+RM815,Research & Development,19626,17544,1308,44,80,No,15k+,14,Travel_Rarely,14
+RM838,Research & Development,13499,13782,593,88,80,No,10k-15k,9,Travel_Frequently,17
+RM846,Research & Development,4422,21203,902,92,80,Yes,Upto 5k,26,Travel_Frequently,13
+RM867,Sales,4327,25440,1184,62,80,No,Upto 5k,2,Travel_Frequently,12
+RM885,Sales,6852,11591,107,84,80,No,5k-10k,10,Travel_Rarely,12
+RM947,Sales,9094,17235,299,57,80,Yes,5k-10k,25,Travel_Rarely,12
+RM958,Research & Development,3544,8532,458,74,80,No,Upto 5k,16,Non-Travel,16
+RM960,Research & Development,4661,22455,523,98,80,No,Upto 5k,2,Travel_Rarely,13
+RM968,Research & Development,2387,6762,329,88,80,No,Upto 5k,1,Travel_Rarely,22
+RM979,Research & Development,6377,13888,1202,89,80,No,5k-10k,2,Travel_Rarely,20
+RM1030,Research & Development,3975,23099,663,81,80,No,Upto 5k,9,Non-Travel,11
+RM1041,Research & Development,13757,25178,218,55,80,No,10k-15k,8,Non-Travel,11
+RM1046,Research & Development,2345,8045,896,68,80,No,Upto 5k,2,Travel_Rarely,14
+RM1084,Research & Development,2018,21831,676,86,80,No,Upto 5k,9,Travel_Rarely,14
+RM1095,Sales,5473,19345,1342,47,80,No,5k-10k,9,Travel_Rarely,12
+RM1097,Human Resources,16437,17381,898,38,80,Yes,15k+,6,Travel_Rarely,21
+RM1099,Research & Development,4069,8841,1142,72,80,Yes,Upto 5k,8,Non-Travel,18
+RM1133,Sales,4639,11262,118,84,80,No,Upto 5k,14,Travel_Rarely,15
+RM1157,Research & Development,10435,25800,884,80,80,No,10k-15k,15,Travel_Rarely,13
+RM1165,Research & Development,7945,19948,448,84,80,Yes,5k-10k,16,Travel_Rarely,15
+RM1172,Research & Development,2166,3339,1329,73,80,Yes,Upto 5k,7,Travel_Rarely,14
+RM1230,Research & Development,6516,5041,369,92,80,Yes,5k-10k,8,Travel_Rarely,16
+RM1243,Sales,19833,4349,611,88,80,No,15k+,7,Travel_Rarely,14
+RM1287,Research & Development,3377,25605,616,99,80,No,Upto 5k,2,Travel_Rarely,17
+RM1300,Research & Development,6513,9060,1194,52,80,No,5k-10k,1,Travel_Rarely,17
+RM1305,Research & Development,4448,10748,750,47,80,No,Upto 5k,12,Travel_Rarely,12
+RM1349,Research & Development,16823,18991,1137,98,80,No,15k+,1,Travel_Rarely,11
+RM1410,Research & Development,6323,26849,692,73,80,No,5k-10k,11,Travel_Frequently,11
+RM1411,Sales,5677,4258,444,92,80,No,5k-10k,2,Travel_Rarely,14
+RM1428,Research & Development,2406,4060,543,83,80,No,Upto 5k,1,Travel_Rarely,19
+RM1456,Research & Development,2809,2725,1322,52,80,No,Upto 5k,2,Travel_Rarely,14
+RM1458,Research & Development,2001,12549,1194,98,80,No,Upto 5k,2,Travel_Rarely,14
+RM001,Sales,5993,19479,1102,94,80,Yes,5k-10k,1,Travel_Rarely,11
+RM046,Research & Development,19545,16280,1360,49,80,No,15k+,12,Travel_Rarely,12
+RM134,Sales,8189,21196,802,96,80,Yes,5k-10k,9,Travel_Rarely,13
+RM148,Research & Development,17181,12888,857,91,80,No,15k+,10,Travel_Frequently,13
+RM149,Research & Development,2238,6961,933,94,80,No,Upto 5k,9,Travel_Rarely,21
+RM167,Research & Development,2451,4609,465,56,80,No,Upto 5k,14,Travel_Rarely,12
+RM183,Sales,3140,21728,1356,70,80,Yes,Upto 5k,20,Travel_Rarely,22
+RM216,Sales,13591,14674,896,75,80,Yes,10k-15k,6,Travel_Rarely,18
+RM243,Research & Development,3072,19877,1411,36,80,No,Upto 5k,19,Travel_Rarely,16
+RM301,Sales,16015,15896,334,88,80,No,15k+,2,Travel_Rarely,19
+RM347,Research & Development,6032,10110,483,95,80,Yes,5k-10k,6,Travel_Rarely,15
+RM367,Sales,9355,9558,143,56,80,No,5k-10k,4,Travel_Frequently,18
+RM404,Sales,8392,19566,645,49,80,No,5k-10k,1,Travel_Rarely,16
+RM447,Sales,6230,13430,267,56,80,No,5k-10k,10,Non-Travel,14
+RM460,Research & Development,6811,2112,509,62,80,Yes,5k-10k,2,Non-Travel,17
+RM467,Sales,16595,5626,1276,91,80,No,15k+,2,Travel_Rarely,16
+RM536,Human Resources,19141,8861,427,73,80,No,15k+,10,Travel_Rarely,15
+RM539,Human Resources,19189,19562,314,59,80,No,15k+,1,Travel_Rarely,12
+RM668,Research & Development,2778,17725,1085,57,80,Yes,Upto 5k,2,Travel_Rarely,13
+RM687,Research & Development,4721,3119,263,59,80,Yes,Upto 5k,6,Travel_Rarely,13
+RM717,Research & Development,19419,3735,840,64,80,No,15k+,9,Travel_Frequently,17
+RM738,Research & Development,5003,23371,549,42,80,No,5k-10k,7,Travel_Rarely,14
+RM747,Research & Development,19973,20284,247,55,80,No,15k+,7,Non-Travel,22
+RM784,Research & Development,3376,18863,509,43,80,No,Upto 5k,7,Travel_Rarely,13
+RM831,Research & Development,4766,9051,167,46,80,Yes,Upto 5k,12,Travel_Rarely,11
+RM865,Research & Development,2107,20293,906,95,80,No,Upto 5k,5,Non-Travel,17
+RM952,Sales,6151,22074,256,40,80,No,5k-10k,10,Non-Travel,13
+RM961,Sales,4103,4297,1018,66,80,No,Upto 5k,1,Travel_Frequently,17
+RM989,Research & Development,5467,13953,1200,75,80,Yes,5k-10k,22,Travel_Frequently,14
+RM1029,Research & Development,2127,5561,1283,90,80,Yes,Upto 5k,5,Travel_Rarely,12
+RM1197,Sales,7082,11591,1206,80,80,Yes,5k-10k,23,Travel_Rarely,16
+RM1219,Sales,9241,15869,918,35,80,No,5k-10k,6,Travel_Rarely,12
+RM1229,Human Resources,6430,20794,552,60,80,No,5k-10k,4,Non-Travel,19
+RM1267,Research & Development,2289,20520,548,94,80,No,Upto 5k,9,Travel_Rarely,20
+RM1295,Research & Development,6870,15530,447,85,80,No,5k-10k,5,Travel_Rarely,12
+RM1296,Sales,10447,26458,796,81,80,Yes,10k-15k,4,Travel_Rarely,13
+RM1357,Sales,4393,26841,337,54,80,No,Upto 5k,8,Travel_Rarely,21
+RM1421,Research & Development,2782,21412,642,76,80,No,Upto 5k,1,Travel_Rarely,22
+RM1446,Research & Development,13570,5640,582,60,80,No,10k-15k,28,Travel_Rarely,23
+RM1449,Sales,8938,12227,930,57,80,No,5k-10k,3,Travel_Rarely,11
+RM028,Sales,6825,21173,691,48,80,No,5k-10k,8,Travel_Rarely,11
+RM198,Research & Development,5265,16439,926,36,80,No,5k-10k,21,Non-Travel,16
+RM232,Research & Development,19232,4933,532,58,80,No,15k+,4,Travel_Rarely,11
+RM254,Research & Development,6545,23016,916,82,80,Yes,5k-10k,17,Travel_Rarely,13
+RM257,Research & Development,2593,8007,269,56,80,Yes,Upto 5k,2,Travel_Rarely,11
+RM282,Sales,4907,24532,635,99,80,No,Upto 5k,1,Travel_Rarely,25
+RM296,Sales,13525,14864,555,77,80,No,10k-15k,26,Travel_Frequently,14
+RM349,Research & Development,15992,15901,810,44,80,No,15k+,23,Travel_Rarely,14
+RM351,Human Resources,2696,24017,544,52,80,Yes,Upto 5k,2,Travel_Rarely,11
+RM357,Research & Development,6781,17078,1332,98,80,No,5k-10k,2,Travel_Rarely,23
+RM389,Research & Development,2576,20490,201,95,80,No,Upto 5k,1,Travel_Rarely,16
+RM410,Research & Development,4556,12932,532,92,80,No,Upto 5k,29,Travel_Frequently,11
+RM414,Research & Development,4523,4386,1368,88,80,No,Upto 5k,28,Travel_Frequently,11
+RM442,Research & Development,2093,9260,1474,97,80,No,Upto 5k,5,Travel_Frequently,17
+RM452,Research & Development,7406,6950,319,56,80,Yes,5k-10k,24,Travel_Rarely,21
+RM489,Research & Development,4089,5718,622,81,80,No,Upto 5k,2,Travel_Rarely,13
+RM548,Research & Development,2759,20366,933,57,80,Yes,Upto 5k,19,Travel_Frequently,12
+RM585,Research & Development,18430,16225,570,66,80,No,15k+,8,Travel_Frequently,13
+RM598,Research & Development,6062,4051,932,43,80,Yes,5k-10k,1,Travel_Rarely,13
+RM605,Research & Development,4434,11806,933,98,80,No,Upto 5k,29,Travel_Rarely,13
+RM633,Research & Development,2515,9068,1271,35,80,Yes,Upto 5k,2,Travel_Frequently,14
+RM644,Research & Development,5231,23726,1265,95,80,Yes,5k-10k,3,Travel_Rarely,13
+RM673,Sales,6244,7824,462,68,80,No,5k-10k,14,Travel_Rarely,17
+RM742,Sales,18303,7770,265,90,80,No,15k+,5,Travel_Rarely,13
+RM800,Research & Development,17665,14399,469,35,80,No,15k+,2,Travel_Rarely,17
+RM825,Research & Development,4272,9558,188,56,80,No,Upto 5k,29,Travel_Rarely,19
+RM839,Sales,13758,2447,481,44,80,Yes,10k-15k,12,Travel_Frequently,12
+RM840,Sales,5155,2253,647,45,80,No,5k-10k,4,Travel_Rarely,13
+RM879,Human Resources,6272,12858,179,79,80,No,5k-10k,2,Non-Travel,16
+RM888,Research & Development,13191,23281,458,60,80,Yes,10k-15k,26,Travel_Frequently,17
+RM926,Research & Development,2372,5628,603,78,80,Yes,Upto 5k,7,Travel_Rarely,16
+RM955,Research & Development,17861,26582,495,37,80,Yes,15k+,2,Non-Travel,13
+RM1000,Human Resources,16799,16616,1147,31,80,No,15k+,10,Travel_Rarely,14
+RM1051,Research & Development,3673,16458,748,74,80,No,Upto 5k,9,Travel_Frequently,13
+RM1089,Research & Development,4841,24052,1210,68,80,No,Upto 5k,2,Travel_Rarely,14
+RM1094,Research & Development,10124,18611,288,40,80,Yes,10k-15k,2,Travel_Frequently,14
+RM1130,Research & Development,19613,26362,1059,93,80,No,15k+,9,Travel_Rarely,22
+RM1264,Research & Development,2766,8952,855,57,80,No,Upto 5k,12,Travel_Rarely,22
+RM1288,Research & Development,5538,5696,1128,95,80,No,5k-10k,13,Travel_Rarely,18
+RM1321,Research & Development,2936,6161,355,38,80,No,Upto 5k,10,Non-Travel,22
+RM1326,Research & Development,3968,13624,1142,81,80,No,Upto 5k,8,Travel_Rarely,13
+RM1358,Research & Development,13348,14842,1396,83,80,No,10k-15k,6,Travel_Rarely,13
+RM1379,Sales,5087,2900,419,77,80,Yes,5k-10k,12,Travel_Rarely,12
+RM1405,Research & Development,4332,14811,335,37,80,No,Upto 5k,23,Non-Travel,12
+RM1420,Research & Development,5410,11189,557,35,80,Yes,5k-10k,18,Travel_Rarely,17
+RM1444,Research & Development,18880,17312,300,56,80,No,15k+,2,Travel_Rarely,11
+RM036,Research & Development,2645,21923,1273,72,80,No,Upto 5k,2,Travel_Rarely,12
+RM120,Sales,16959,19494,394,92,80,Yes,15k+,26,Travel_Frequently,12
+RM131,Research & Development,4739,16090,957,72,80,No,Upto 5k,28,Travel_Frequently,12
+RM194,Research & Development,2089,5228,1344,37,80,No,Upto 5k,7,Non-Travel,14
+RM236,Sales,16064,7744,1034,80,80,Yes,15k+,16,Travel_Rarely,22
+RM316,Research & Development,2455,10675,185,33,80,No,Upto 5k,10,Travel_Frequently,19
+RM331,Research & Development,5257,6227,559,82,80,No,5k-10k,10,Travel_Frequently,11
+RM334,Research & Development,9985,9262,1001,43,80,No,5k-10k,7,Travel_Rarely,16
+RM391,Research & Development,14336,4345,982,59,80,No,10k-15k,12,Travel_Rarely,11
+RM396,Research & Development,2258,15238,313,61,80,No,Upto 5k,21,Travel_Frequently,20
+RM397,Research & Development,4522,2227,1473,74,80,Yes,Upto 5k,8,Travel_Rarely,14
+RM490,Research & Development,16627,2671,782,50,80,Yes,15k+,6,Travel_Rarely,14
+RM492,Research & Development,5679,19627,1001,72,80,Yes,5k-10k,9,Travel_Frequently,13
+RM549,Sales,6804,23683,775,47,80,No,5k-10k,15,Travel_Frequently,18
+RM610,Research & Development,17159,5200,589,94,80,No,15k+,14,Travel_Rarely,24
+RM651,Research & Development,5562,21782,422,33,80,No,5k-10k,1,Travel_Frequently,13
+RM662,Research & Development,4765,23814,177,55,80,No,Upto 5k,8,Travel_Rarely,21
+RM776,Sales,10798,5268,415,79,80,No,10k-15k,25,Travel_Rarely,13
+RM813,Research & Development,10820,11535,1082,83,80,No,10k-15k,27,Travel_Frequently,11
+RM850,Sales,5346,9489,1372,85,80,No,5k-10k,9,Travel_Rarely,13
+RM899,Research & Development,19740,18625,920,96,80,No,15k+,3,Travel_Rarely,14
+RM927,Sales,10231,20364,531,56,80,No,10k-15k,4,Travel_Rarely,14
+RM996,Research & Development,4081,20003,930,73,80,Yes,Upto 5k,6,Travel_Rarely,14
+RM1134,Research & Development,4876,5855,990,87,80,No,Upto 5k,27,Travel_Rarely,12
+RM1186,Research & Development,17603,3525,1291,65,80,No,15k+,15,Travel_Rarely,24
+RM1217,Sales,7847,6069,1179,73,80,Yes,5k-10k,2,Travel_Rarely,17
+RM1263,Research & Development,2437,15587,807,38,80,Yes,Upto 5k,17,Travel_Frequently,16
+RM1270,Human Resources,3539,5033,244,97,80,No,Upto 5k,2,Travel_Rarely,13
+RM1294,Research & Development,2438,24978,343,52,80,No,Upto 5k,9,Non-Travel,13
+RM1317,Sales,5675,19246,1422,92,80,No,5k-10k,2,Travel_Frequently,20
+RM1331,Research & Development,19392,22539,823,81,80,No,15k+,6,Travel_Rarely,13
+RM1400,Research & Development,7510,16873,574,30,80,No,5k-10k,11,Travel_Rarely,17
+RM029,Research & Development,10248,2094,477,42,80,No,10k-15k,7,Travel_Rarely,14
+RM032,Research & Development,6465,19121,1459,41,80,Yes,5k-10k,10,Travel_Rarely,13
+RM053,Sales,5454,4009,1488,75,80,Yes,5k-10k,1,Travel_Rarely,21
+RM100,Research & Development,2042,25043,489,67,80,No,Upto 5k,23,Non-Travel,12
+RM287,Research & Development,3161,19920,920,43,80,Yes,Upto 5k,24,Travel_Frequently,22
+RM494,Human Resources,5985,26894,1112,50,80,No,5k-10k,1,Travel_Rarely,11
+RM498,Research & Development,19513,9358,1315,35,80,Yes,15k+,3,Travel_Rarely,12
+RM544,Research & Development,3708,2104,381,49,80,No,Upto 5k,24,Non-Travel,14
+RM618,Research & Development,5933,5197,625,50,80,No,5k-10k,4,Travel_Rarely,12
+RM632,Research & Development,2818,5044,986,62,80,Yes,Upto 5k,8,Travel_Rarely,24
+RM659,Research & Development,2559,7508,661,61,80,Yes,Upto 5k,9,Travel_Rarely,13
+RM751,Sales,13320,11737,1448,53,80,Yes,10k-15k,28,Travel_Rarely,18
+RM790,Human Resources,10482,2326,1376,91,80,No,10k-15k,1,Travel_Rarely,14
+RM858,Research & Development,2936,10826,1097,96,80,Yes,Upto 5k,10,Travel_Rarely,11
+RM863,Research & Development,2290,4279,111,74,80,No,Upto 5k,17,Non-Travel,13
+RM876,Research & Development,4541,7744,200,32,80,No,Upto 5k,29,Travel_Rarely,25
+RM892,Research & Development,2011,19982,1117,72,80,No,Upto 5k,2,Travel_Rarely,13
+RM908,Sales,18213,8751,1099,88,80,No,15k+,5,Travel_Rarely,11
+RM923,Research & Development,19190,17477,1199,92,80,No,15k+,4,Travel_Rarely,14
+RM929,Research & Development,7978,14075,621,73,80,No,5k-10k,15,Travel_Rarely,11
+RM954,Research & Development,2362,14669,935,89,80,No,Upto 5k,3,Travel_Rarely,12
+RM1043,Research & Development,3162,7973,981,90,80,No,Upto 5k,5,Non-Travel,14
+RM1047,Research & Development,3420,21158,1467,49,80,No,Upto 5k,20,Travel_Rarely,13
+RM1052,Sales,4768,9282,383,79,80,No,Upto 5k,1,Travel_Frequently,12
+RM1063,Research & Development,10209,19719,1193,86,80,Yes,10k-15k,2,Travel_Frequently,18
+RM1079,Research & Development,16328,22074,136,32,80,No,15k+,28,Travel_Rarely,13
+RM1141,Research & Development,19049,3549,1313,31,80,Yes,15k+,7,Travel_Rarely,14
+RM1166,Human Resources,5743,10503,602,37,80,Yes,5k-10k,1,Travel_Frequently,11
+RM1201,Human Resources,3195,4167,528,44,80,Yes,Upto 5k,1,Travel_Rarely,18
+RM1215,Research & Development,7879,14810,921,96,80,Yes,5k-10k,2,Travel_Rarely,19
+RM1280,Research & Development,2342,11092,429,99,80,Yes,Upto 5k,1,Travel_Frequently,12
+RM1353,Research & Development,5033,9364,170,78,80,No,5k-10k,1,Travel_Rarely,15
+RM1436,Research & Development,2436,13422,1037,42,80,Yes,Upto 5k,1,Travel_Rarely,12
+RM068,Research & Development,9724,18787,1339,59,80,No,5k-10k,7,Travel_Rarely,17
+RM078,Research & Development,13245,15067,193,52,80,Yes,10k-15k,6,Travel_Rarely,14
+RM142,Research & Development,3452,9752,1316,83,80,No,Upto 5k,29,Travel_Rarely,13
+RM154,Research & Development,2348,10901,194,60,80,No,Upto 5k,9,Travel_Rarely,18
+RM175,Sales,5006,6319,1268,30,80,Yes,5k-10k,4,Travel_Rarely,11
+RM195,Research & Development,16792,20462,1195,65,80,No,15k+,2,Non-Travel,23
+RM219,Sales,8865,16840,1052,57,80,No,5k-10k,6,Non-Travel,12
+RM245,Research & Development,19202,15970,252,70,80,No,15k+,1,Travel_Rarely,11
+RM250,Research & Development,6434,5118,1199,77,80,No,5k-10k,7,Travel_Frequently,17
+RM269,Research & Development,13496,7501,1385,79,80,Yes,10k-15k,20,Travel_Rarely,14
+RM312,Research & Development,5210,20308,1249,97,80,No,5k-10k,7,Travel_Frequently,18
+RM335,Research & Development,3697,9278,549,75,80,No,Upto 5k,8,Travel_Rarely,14
+RM408,Research & Development,2654,9655,192,69,80,No,Upto 5k,10,Travel_Rarely,21
+RM453,Sales,4805,16177,561,61,80,No,Upto 5k,2,Travel_Rarely,19
+RM505,Sales,4286,5630,306,100,80,No,Upto 5k,26,Travel_Frequently,14
+RM565,Sales,6632,12388,954,46,80,No,5k-10k,2,Travel_Rarely,13
+RM604,Research & Development,2274,6153,252,95,80,No,Upto 5k,2,Travel_Rarely,14
+RM626,Sales,10761,19239,930,74,80,Yes,10k-15k,9,Travel_Rarely,12
+RM697,Research & Development,4447,23163,805,57,80,No,Upto 5k,4,Non-Travel,12
+RM714,Research & Development,2270,11005,974,91,80,No,Upto 5k,1,Travel_Rarely,14
+RM719,Research & Development,3633,14039,248,42,80,Yes,Upto 5k,23,Non-Travel,15
+RM756,Sales,17650,5404,1234,90,80,No,15k+,11,Travel_Rarely,13
+RM760,Human Resources,2177,8318,788,36,80,No,Upto 5k,24,Travel_Rarely,16
+RM806,Sales,5593,17970,1050,65,80,No,5k-10k,9,Non-Travel,13
+RM855,Research & Development,4477,20100,1457,83,80,Yes,Upto 5k,7,Travel_Rarely,19
+RM914,Sales,18824,2493,1449,94,80,Yes,15k+,2,Travel_Rarely,16
+RM937,Research & Development,18061,13035,364,83,80,No,15k+,25,Travel_Frequently,22
+RM1035,Research & Development,10851,19863,1038,95,80,Yes,10k-15k,20,Travel_Rarely,18
+RM1038,Research & Development,9380,14720,1448,55,80,Yes,5k-10k,29,Travel_Rarely,18
+RM1093,Research & Development,2132,4585,950,97,80,No,Upto 5k,28,Travel_Rarely,20
+RM1100,Research & Development,7441,20933,538,66,80,No,5k-10k,1,Travel_Rarely,12
+RM1143,Research & Development,5769,23447,1015,50,80,Yes,5k-10k,5,Travel_Rarely,14
+RM1144,Sales,4385,24162,336,52,80,No,Upto 5k,26,Non-Travel,15
+RM1161,Research & Development,5770,5388,1329,59,80,No,5k-10k,2,Travel_Rarely,19
+RM1222,Research & Development,10748,3395,1238,74,80,No,10k-15k,1,Non-Travel,23
+RM1226,Research & Development,16704,17119,1005,48,80,No,15k+,28,Travel_Rarely,11
+RM1244,Human Resources,9756,6595,176,56,80,No,5k-10k,4,Travel_Rarely,21
+RM1315,Sales,5154,19665,589,67,80,No,5k-10k,2,Non-Travel,22
+RM1347,Research & Development,5906,23888,556,93,80,No,5k-10k,25,Travel_Rarely,13
+RM1363,Research & Development,5399,14511,1297,44,80,No,5k-10k,1,Travel_Frequently,12
+RM1455,Sales,4850,23333,374,50,80,No,Upto 5k,20,Travel_Rarely,15
+RM030,Sales,18947,22822,705,83,80,No,15k+,2,Travel_Rarely,12
+RM049,Sales,5772,20445,1211,98,80,Yes,5k-10k,5,Travel_Frequently,21
+RM080,Human Resources,5021,10425,945,80,80,Yes,5k-10k,5,Travel_Rarely,22
+RM090,Sales,9619,13596,669,64,80,No,5k-10k,9,Travel_Rarely,16
+RM094,Research & Development,10673,3142,638,40,80,Yes,10k-15k,1,Travel_Frequently,13
+RM179,Sales,10453,2137,526,92,80,No,10k-15k,1,Travel_Rarely,25
+RM210,Research & Development,9396,12368,644,97,80,No,5k-10k,1,Travel_Rarely,16
+RM264,Sales,16872,14977,488,75,80,Yes,15k+,2,Travel_Rarely,12
+RM366,Research & Development,5258,16044,1144,30,80,No,5k-10k,7,Non-Travel,14
+RM413,Research & Development,4810,26314,1485,87,80,No,Upto 5k,18,Travel_Rarely,14
+RM430,Research & Development,17861,2288,1009,51,80,No,15k+,2,Travel_Rarely,13
+RM434,Sales,9071,11563,1125,94,80,Yes,5k-10k,10,Travel_Rarely,19
+RM466,Research & Development,10527,8984,1034,86,80,No,10k-15k,18,Travel_Frequently,11
+RM724,Research & Development,10845,24208,566,75,80,No,10k-15k,7,Travel_Rarely,13
+RM771,Research & Development,19627,21445,430,40,80,No,15k+,1,Travel_Rarely,17
+RM779,Research & Development,4615,21029,1003,74,80,Yes,Upto 5k,8,Travel_Rarely,23
+RM811,Sales,17465,15596,406,52,80,No,15k+,3,Travel_Rarely,12
+RM862,Sales,17048,24097,1402,69,80,No,15k+,2,Travel_Rarely,23
+RM870,Research & Development,19081,10849,1450,52,80,No,15k+,15,Travel_Rarely,11
+RM878,Research & Development,7379,17433,150,60,80,No,5k-10k,2,Travel_Rarely,11
+RM917,Sales,18789,9946,168,33,80,No,15k+,4,Travel_Rarely,14
+RM944,Human Resources,3423,22957,991,44,80,No,Upto 5k,1,Travel_Rarely,12
+RM1032,Sales,10096,15986,377,52,80,No,10k-15k,9,Travel_Rarely,11
+RM1081,Sales,16606,11380,228,51,80,No,15k+,3,Travel_Rarely,12
+RM1136,Sales,17567,3156,563,56,80,No,15k+,1,Travel_Rarely,15
+RM1232,Research & Development,5562,9697,717,34,80,No,5k-10k,13,Travel_Rarely,14
+RM1236,Sales,10368,5596,1277,74,80,Yes,10k-15k,2,Travel_Rarely,12
+RM1278,Research & Development,19328,14218,734,46,80,Yes,15k+,2,Travel_Rarely,17
+RM1286,Sales,7991,25166,849,98,80,No,5k-10k,26,Non-Travel,15
+RM1299,Research & Development,8926,10842,261,66,80,No,5k-10k,21,Travel_Rarely,22
+RM1323,Research & Development,8578,19989,706,82,80,No,5k-10k,2,Travel_Rarely,14
+RM1328,Sales,13225,7739,1319,45,80,No,10k-15k,3,Travel_Rarely,12
+RM1334,Sales,7314,14011,1254,64,80,No,5k-10k,10,Travel_Rarely,21
+RM272,Research & Development,11849,10268,666,88,80,Yes,10k-15k,29,Non-Travel,12
+RM330,Research & Development,18300,16375,1482,42,80,No,15k+,5,Travel_Rarely,11
+RM348,Sales,2976,25751,1309,99,80,No,Upto 5k,4,Travel_Frequently,19
+RM429,Research & Development,5070,7389,983,65,80,No,5k-10k,2,Travel_Rarely,13
+RM533,Sales,4960,11825,703,42,80,No,Upto 5k,14,Travel_Rarely,12
+RM545,Sales,13770,10225,217,49,80,Yes,10k-15k,3,Travel_Frequently,12
+RM567,Sales,6397,10339,719,77,80,Yes,5k-10k,27,Travel_Frequently,12
+RM593,Research & Development,16752,12982,202,33,80,Yes,15k+,2,Travel_Rarely,11
+RM652,Sales,4537,17783,249,35,80,Yes,Upto 5k,2,Travel_Rarely,22
+RM666,Sales,3294,13137,1454,65,80,Yes,Upto 5k,2,Travel_Rarely,18
+RM708,Research & Development,5067,6759,1379,64,80,Yes,5k-10k,16,Travel_Frequently,19
+RM720,Sales,4163,8571,955,83,80,Yes,Upto 5k,4,Travel_Rarely,17
+RM1021,Research & Development,3420,10205,465,74,80,No,Upto 5k,1,Travel_Rarely,12
+RM1025,Research & Development,17169,26703,359,82,80,No,15k+,2,Travel_Rarely,19
+RM1068,Sales,4591,24200,571,78,80,Yes,Upto 5k,14,Travel_Rarely,17
+RM1155,Human Resources,19658,5220,1176,98,80,No,15k+,26,Travel_Rarely,11
+RM1195,Sales,15972,21086,1225,47,80,No,15k+,2,Travel_Rarely,14
+RM1224,Sales,12936,24164,1093,82,80,No,10k-15k,9,Travel_Frequently,11
+RM1235,Sales,4978,3536,543,87,80,No,Upto 5k,2,Non-Travel,11
+RM1304,Research & Development,10333,19271,1001,92,80,Yes,10k-15k,4,Travel_Rarely,12
+RM1322,Research & Development,2105,5411,207,64,80,No,Upto 5k,9,Travel_Rarely,12
+RM1371,Research & Development,5467,2125,1169,64,80,No,5k-10k,14,Non-Travel,18
+RM1415,Research & Development,8633,13084,1180,84,80,No,5k-10k,25,Travel_Rarely,23
+RM1422,Research & Development,11957,17231,1162,98,80,No,10k-15k,1,Non-Travel,18
+RM051,Research & Development,5381,19294,626,98,80,Yes,5k-10k,1,Travel_Rarely,13
+RM353,Sales,12504,23978,530,91,80,No,10k-15k,29,Travel_Rarely,21
+RM445,Sales,4051,19658,163,37,80,No,Upto 5k,2,Travel_Rarely,14
+RM493,Research & Development,15402,17997,1236,40,80,No,15k+,1,Travel_Rarely,11
+RM521,Sales,8120,18597,817,56,80,No,5k-10k,2,Travel_Rarely,12
+RM679,Research & Development,2259,5543,1469,51,80,No,Upto 5k,20,Travel_Rarely,17
+RM736,Research & Development,4240,13119,277,97,80,No,Upto 5k,6,Travel_Rarely,13
+RM737,Research & Development,10999,22245,1355,78,80,No,10k-15k,4,Travel_Rarely,14
+RM805,Research & Development,16885,16154,1262,35,80,No,15k+,1,Non-Travel,22
+RM902,Research & Development,2559,16620,969,76,80,No,Upto 5k,2,Travel_Rarely,11
+RM905,Research & Development,18265,8733,715,76,80,No,15k+,1,Travel_Rarely,12
+RM970,Research & Development,7898,18706,855,54,80,No,5k-10k,4,Travel_Rarely,11
+RM1039,Sales,5486,24795,1221,96,80,No,5k-10k,7,Travel_Rarely,11
+RM1104,Sales,6439,13693,492,96,80,No,5k-10k,16,Travel_Rarely,14
+RM1115,Research & Development,2367,16530,1108,65,80,No,Upto 5k,15,Travel_Rarely,12
+RM1167,Research & Development,15202,5602,365,89,80,No,15k+,4,Travel_Frequently,25
+RM1205,Sales,2655,11740,708,95,80,Yes,Upto 5k,7,Travel_Frequently,11
+RM1332,Research & Development,19665,13583,1224,91,80,No,15k+,10,Travel_Rarely,12
+RM1352,Research & Development,17174,2437,117,58,80,No,15k+,22,Travel_Frequently,11
+RM002,Research & Development,5130,24907,279,61,80,No,5k-10k,8,Travel_Frequently,23
+RM130,Research & Development,6567,5549,470,96,80,No,5k-10k,20,Travel_Rarely,14
+RM202,Research & Development,6804,23793,1002,92,80,Yes,5k-10k,18,Non-Travel,15
+RM291,Research & Development,18665,25594,636,35,80,Yes,15k+,10,Travel_Frequently,11
+RM317,Research & Development,13964,17810,1091,90,80,Yes,10k-15k,1,Travel_Rarely,12
+RM376,Research & Development,10965,12066,1261,31,80,No,10k-15k,7,Travel_Rarely,24
+RM474,Research & Development,19502,2125,1245,58,80,Yes,15k+,18,Travel_Rarely,17
+RM608,Sales,7654,5860,1184,43,80,No,5k-10k,11,Travel_Rarely,18
+RM640,Research & Development,3580,10554,1418,36,80,No,Upto 5k,1,Travel_Rarely,16
+RM678,Research & Development,7403,22477,527,51,80,No,5k-10k,8,Travel_Rarely,11
+RM822,Sales,13120,11879,174,56,80,No,10k-15k,8,Travel_Rarely,17
+RM900,Research & Development,18711,12124,1098,85,80,No,15k+,4,Travel_Rarely,13
+RM1007,Research & Development,4284,22710,1475,97,80,No,Upto 5k,28,Travel_Frequently,20
+RM1045,Research & Development,6651,21534,1495,96,80,No,5k-10k,5,Travel_Rarely,14
+RM1055,Research & Development,10466,20948,1490,35,80,No,10k-15k,7,Travel_Rarely,14
+RM1072,Research & Development,4789,23070,271,43,80,No,Upto 5k,3,Travel_Rarely,25
+RM1148,Research & Development,3211,22102,722,84,80,No,Upto 5k,25,Travel_Rarely,14
+RM1177,Research & Development,16413,3498,301,72,80,No,15k+,22,Travel_Rarely,16
+RM1182,Research & Development,13966,11652,465,41,80,Yes,10k-15k,6,Travel_Rarely,19
+RM1193,Research & Development,2587,24941,464,74,80,Yes,Upto 5k,16,Travel_Rarely,16
+RM1196,Research & Development,15379,22384,809,36,80,No,15k+,1,Travel_Rarely,14
+RM1255,Sales,4507,8191,1313,80,80,No,Upto 5k,11,Travel_Rarely,12
+RM1378,Research & Development,19161,13738,1064,42,80,No,15k+,2,Travel_Frequently,15
+RM1469,Sales,5390,13243,1023,63,80,No,5k-10k,2,Travel_Frequently,14
+RM037,Sales,2683,3810,869,86,80,Yes,Upto 5k,3,Travel_Rarely,14
+RM063,Research & Development,18740,16701,989,43,80,Yes,15k+,7,Travel_Rarely,12
+RM107,Research & Development,18172,9755,1115,73,80,Yes,15k+,1,Travel_Frequently,19
+RM132,Sales,9208,6645,809,77,80,No,5k-10k,12,Travel_Frequently,11
+RM166,Research & Development,19926,17053,1452,53,80,No,15k+,11,Travel_Rarely,15
+RM184,Research & Development,3690,3425,328,86,80,No,Upto 5k,1,Travel_Rarely,15
+RM234,Sales,19517,24118,854,68,80,No,15k+,1,Travel_Rarely,11
+RM280,Research & Development,19144,15815,797,96,80,No,15k+,4,Travel_Rarely,14
+RM368,Research & Development,10496,2755,1046,100,80,No,10k-15k,10,Travel_Rarely,15
+RM426,Research & Development,17046,9314,1099,88,80,No,15k+,29,Travel_Rarely,15
+RM478,Human Resources,18200,7999,1246,99,80,No,15k+,3,Travel_Frequently,11
+RM524,Research & Development,3221,3297,1207,74,80,Yes,Upto 5k,28,Travel_Rarely,11
+RM529,Sales,6796,23452,562,50,80,Yes,5k-10k,8,Travel_Frequently,14
+RM540,Sales,3875,9983,316,54,80,No,Upto 5k,8,Travel_Rarely,15
+RM589,Research & Development,17639,6881,691,64,80,No,15k+,2,Travel_Rarely,16
+RM654,Research & Development,17924,4544,881,98,80,No,15k+,2,Non-Travel,11
+RM715,Research & Development,17399,6615,1126,66,80,No,15k+,1,Travel_Rarely,22
+RM722,Research & Development,13973,4161,939,95,80,Yes,10k-15k,24,Travel_Rarely,18
+RM743,Research & Development,2380,20165,804,64,80,No,Upto 5k,9,Travel_Rarely,18
+RM752,Sales,6347,24920,145,95,80,No,5k-10k,1,Non-Travel,12
+RM767,Research & Development,19237,12853,1464,62,80,Yes,15k+,2,Travel_Rarely,11
+RM802,Sales,4728,17251,959,81,80,Yes,Upto 5k,1,Travel_Frequently,14
+RM868,Research & Development,17856,9490,1421,30,80,No,15k+,2,Travel_Frequently,22
+RM946,Research & Development,16880,22422,1322,43,80,Yes,15k+,28,Travel_Rarely,11
+RM1087,Research & Development,14411,24450,333,88,80,Yes,10k-15k,22,Travel_Frequently,13
+RM1127,Sales,19331,19519,264,59,80,Yes,15k+,9,Travel_Rarely,16
+RM1139,Research & Development,11245,20689,1234,41,80,Yes,10k-15k,20,Travel_Frequently,15
+RM1178,Research & Development,13269,21981,813,50,80,No,10k-15k,17,Travel_Rarely,15
+RM1453,Sales,6728,14255,878,94,80,No,5k-10k,1,Travel_Frequently,12
+RM1462,Sales,10854,16586,410,39,80,Yes,10k-15k,28,Travel_Rarely,13
+RM088,Research & Development,2075,18725,432,96,80,No,Upto 5k,9,Travel_Rarely,23
+RM092,Sales,5441,8423,632,71,80,Yes,5k-10k,21,Travel_Rarely,22
+RM111,Research & Development,7484,25796,1456,30,80,No,5k-10k,1,Travel_Frequently,20
+RM124,Research & Development,19537,6462,684,51,80,No,15k+,6,Travel_Rarely,13
+RM137,Research & Development,10650,25150,1150,53,80,No,10k-15k,8,Travel_Frequently,15
+RM157,Research & Development,6132,13983,1169,34,80,No,5k-10k,7,Travel_Rarely,17
+RM190,Research & Development,13734,7192,313,98,80,No,10k-15k,3,Travel_Rarely,18
+RM214,Research & Development,12490,15736,1469,81,80,No,10k-15k,8,Travel_Rarely,16
+RM259,Research & Development,2723,23231,833,96,80,No,Upto 5k,1,Travel_Rarely,11
+RM300,Research & Development,5482,16321,1302,84,80,No,5k-10k,2,Travel_Rarely,18
+RM377,Sales,4936,14862,1178,87,80,No,Upto 5k,14,Travel_Rarely,11
+RM617,Sales,16307,5594,1318,66,80,No,15k+,26,Travel_Rarely,14
+RM780,Research & Development,2461,10332,1323,34,80,Yes,Upto 5k,4,Travel_Rarely,12
+RM919,Sales,19847,19196,237,83,80,Yes,15k+,9,Travel_Frequently,24
+RM931,Research & Development,2838,4257,968,40,80,No,Upto 5k,6,Travel_Frequently,14
+RM963,Human Resources,14026,17588,770,84,80,Yes,10k-15k,5,Travel_Rarely,11
+RM972,Research & Development,13142,24439,1405,82,80,No,10k-15k,11,Travel_Rarely,16
+RM988,Sales,10596,15395,541,52,80,No,10k-15k,2,Travel_Frequently,11
+RM1276,Research & Development,13116,22984,942,53,80,No,10k-15k,3,Travel_Rarely,11
+RM191,Research & Development,19999,5678,699,65,80,No,15k+,1,Travel_Rarely,14
+RM231,Research & Development,3212,3300,1323,89,80,No,Upto 5k,2,Travel_Rarely,15
+RM238,Sales,19068,21030,771,79,80,Yes,15k+,2,Non-Travel,18
+RM318,Research & Development,4941,17747,723,85,80,No,Upto 5k,8,Travel_Rarely,15
+RM407,Research & Development,7969,19609,319,39,80,Yes,5k-10k,3,Travel_Rarely,14
+RM409,Research & Development,16555,10310,1490,30,80,No,15k+,4,Travel_Rarely,13
+RM469,Research & Development,5577,22087,956,78,80,Yes,5k-10k,6,Travel_Rarely,12
+RM562,Sales,16856,10084,621,31,80,No,15k+,3,Travel_Rarely,11
+RM571,Research & Development,4258,26589,715,41,80,No,Upto 5k,19,Non-Travel,18
+RM588,Research & Development,3149,21821,1325,82,80,No,Upto 5k,11,Travel_Rarely,20
+RM628,Research & Development,13826,19028,890,81,80,No,10k-15k,25,Travel_Frequently,22
+RM700,Research & Development,17099,13829,1053,70,80,No,15k+,1,Travel_Rarely,15
+RM750,Sales,19845,25846,266,57,80,No,15k+,2,Travel_Rarely,15
+RM807,Research & Development,10445,15322,994,87,80,No,10k-15k,7,Travel_Rarely,19
+RM948,Sales,8446,21534,1030,64,80,Yes,5k-10k,5,Travel_Rarely,19
+RM995,Research & Development,13247,9731,322,59,80,Yes,10k-15k,28,Travel_Frequently,11
+RM1001,Research & Development,2950,17363,258,54,80,No,Upto 5k,8,Travel_Rarely,13
+RM1435,Sales,3482,19788,585,40,80,No,Upto 5k,29,Non-Travel,15
+RM019,Sales,15427,22021,1219,78,80,No,15k+,2,Travel_Rarely,16
+RM026,Research & Development,19094,10735,1282,58,80,No,15k+,5,Travel_Rarely,11
+RM153,Sales,2306,16047,1436,34,80,Yes,Upto 5k,6,Travel_Rarely,20
+RM185,Research & Development,4450,26250,1084,57,80,No,Upto 5k,13,Travel_Rarely,11
+RM281,Research & Development,17584,21016,1070,45,80,Yes,15k+,3,Travel_Rarely,16
+RM503,Sales,8381,7507,238,34,80,No,5k-10k,1,Travel_Rarely,20
+RM535,Research & Development,14814,13514,970,59,80,No,10k-15k,7,Travel_Rarely,19
+RM557,Research & Development,2450,10919,346,86,80,No,Upto 5k,6,Travel_Rarely,17
+RM625,Sales,10934,20715,661,78,80,Yes,10k-15k,7,Travel_Rarely,18
+RM647,Sales,11836,22789,868,73,80,No,10k-15k,8,Travel_Rarely,14
+RM650,Research & Development,14275,20206,102,72,80,No,10k-15k,23,Travel_Rarely,18
+RM702,Sales,14852,13938,1376,45,80,No,10k-15k,2,Travel_Rarely,13
+RM761,Sales,7525,23537,124,38,80,No,5k-10k,2,Travel_Frequently,12
+RM859,Research & Development,18606,18640,1223,50,80,No,15k+,7,Travel_Rarely,18
+RM1044,Research & Development,16598,19764,447,39,80,No,15k+,2,Travel_Rarely,12
+RM1112,Research & Development,10169,14618,607,78,80,No,10k-15k,2,Travel_Rarely,16
+RM1204,Research & Development,7005,3458,1395,48,80,No,5k-10k,24,Travel_Rarely,15
+RM1269,Research & Development,12965,22308,661,60,80,Yes,10k-15k,1,Non-Travel,20
+RM1397,Sales,10448,5843,1168,66,80,Yes,10k-15k,24,Travel_Rarely,13
+RM096,Research & Development,13549,24001,1217,60,80,No,10k-15k,2,Travel_Rarely,12
+RM113,Human Resources,17328,13871,142,30,80,Yes,15k+,26,Non-Travel,12
+RM220,Sales,5940,17011,1147,52,80,No,5k-10k,3,Travel_Rarely,14
+RM333,Research & Development,4869,16885,928,31,80,No,Upto 5k,20,Travel_Frequently,12
+RM393,Research & Development,19406,8509,821,86,80,No,15k+,5,Travel_Rarely,11
+RM432,Research & Development,3780,23428,548,42,80,No,Upto 5k,8,Travel_Rarely,11
+RM511,Human Resources,10725,6729,397,88,80,No,10k-15k,19,Travel_Rarely,15
+RM576,Research & Development,5485,22670,376,95,80,Yes,5k-10k,19,Travel_Rarely,11
+RM729,Research & Development,10739,13943,1441,56,80,No,10k-15k,17,Travel_Rarely,11
+RM772,Sales,10686,8392,1082,41,80,No,10k-15k,2,Travel_Rarely,11
+RM891,Research & Development,10502,9659,966,53,80,No,10k-15k,1,Travel_Frequently,17
+RM895,Research & Development,17779,23474,685,85,80,No,15k+,3,Travel_Rarely,14
+RM1009,Research & Development,17328,5652,971,54,80,No,15k+,1,Travel_Rarely,19
+RM1077,Research & Development,16032,24456,1050,87,80,No,15k+,11,Travel_Frequently,20
+RM1185,Research & Development,17426,18685,584,91,80,No,15k+,22,Travel_Rarely,25
+RM1306,Research & Development,6854,15696,431,68,80,No,5k-10k,7,Travel_Rarely,15
+RM1398,Research & Development,2897,22474,155,67,80,No,Upto 5k,9,Travel_Rarely,11
+RM1407,Research & Development,4440,25198,157,77,80,Yes,Upto 5k,10,Travel_Rarely,19
+RM066,Research & Development,14756,19730,836,33,80,Yes,10k-15k,8,Travel_Rarely,14
+RM083,Sales,10239,18092,111,70,80,No,10k-15k,1,Travel_Rarely,14
+RM188,Research & Development,18722,13339,692,61,80,No,15k+,14,Travel_Rarely,11
+RM271,Research & Development,19045,18938,452,81,80,Yes,15k+,1,Travel_Rarely,14
+RM284,Research & Development,5415,15972,147,37,80,Yes,5k-10k,20,Travel_Rarely,19
+RM380,Research & Development,16659,23258,1311,97,80,Yes,15k+,2,Travel_Rarely,13
+RM446,Sales,16835,9873,1117,83,80,No,15k+,18,Travel_Rarely,23
+RM569,Research & Development,19859,21199,725,78,80,Yes,15k+,2,Travel_Rarely,13
+RM609,Sales,5160,21519,436,37,80,No,5k-10k,2,Travel_Rarely,16
+RM746,Research & Development,6385,12992,135,62,80,Yes,5k-10k,18,Travel_Frequently,14
+RM775,Research & Development,16756,17323,444,40,80,No,15k+,2,Non-Travel,15
+RM788,Research & Development,10976,15813,1091,65,80,No,10k-15k,2,Travel_Frequently,18
+RM915,Research & Development,13577,25592,177,37,80,Yes,10k-15k,8,Non-Travel,15
+RM956,Research & Development,19187,6992,282,58,80,No,15k+,2,Travel_Rarely,14
+RM976,Sales,13695,9277,267,85,80,Yes,10k-15k,13,Travel_Rarely,17
+RM1011,Research & Development,14732,12414,1136,81,80,No,10k-15k,1,Travel_Rarely,13
+RM1066,Research & Development,4035,16143,1229,30,80,Yes,Upto 5k,4,Travel_Rarely,16
+RM1117,Sales,19586,23037,685,60,80,No,15k+,26,Travel_Rarely,21
+RM1208,Research & Development,3537,23737,1441,94,80,No,Upto 5k,22,Travel_Rarely,12
+RM1265,Research & Development,19038,19805,478,60,80,No,15k+,2,Travel_Rarely,12
+RM1337,Research & Development,2662,7975,836,98,80,No,Upto 5k,2,Travel_Rarely,20
+RM1402,Human Resources,19636,25811,189,71,80,Yes,15k+,26,Travel_Rarely,18
+RM086,Research & Development,7260,21698,1400,49,80,No,5k-10k,7,Travel_Rarely,11
+RM123,Research & Development,4963,4510,441,72,80,Yes,Upto 5k,14,Travel_Rarely,18
+RM176,Research & Development,4257,13939,713,67,80,Yes,Upto 5k,8,Travel_Rarely,18
+RM402,Sales,13212,18256,906,86,80,No,10k-15k,6,Travel_Frequently,11
+RM553,Research & Development,11103,20420,832,81,80,No,10k-15k,9,Travel_Rarely,11
+RM773,Research & Development,2942,12154,1240,63,80,No,Upto 5k,9,Travel_Frequently,19
+RM852,Research & Development,19943,18575,718,92,80,No,15k+,4,Travel_Rarely,13
+RM957,Human Resources,19717,4022,206,99,80,No,15k+,8,Travel_Rarely,14
+RM977,Research & Development,13402,18235,1369,68,80,Yes,10k-15k,23,Travel_Rarely,12
+RM1024,Research & Development,2066,10494,1255,90,80,No,Upto 5k,1,Travel_Rarely,22
+RM1355,Research & Development,2587,10261,1162,97,80,No,Upto 5k,24,Travel_Rarely,16
+RM1372,Sales,5380,20328,1443,89,80,No,5k-10k,11,Travel_Rarely,16
+RM1442,Research & Development,6306,26236,667,57,80,No,5k-10k,1,Non-Travel,21
+RM1445,Research & Development,2339,3666,310,72,80,No,Upto 5k,7,Travel_Rarely,11
+RM164,Research & Development,9439,23402,334,83,80,Yes,5k-10k,24,Travel_Rarely,16
+RM361,Research & Development,6755,2967,593,88,80,No,5k-10k,1,Travel_Rarely,11
+RM425,Sales,14118,22102,210,56,80,No,10k-15k,29,Travel_Rarely,12
+RM1054,Research & Development,4900,2721,405,93,80,No,Upto 5k,1,Travel_Rarely,24
+RM099,Sales,13872,24409,682,37,80,No,10k-15k,10,Travel_Rarely,13
+RM127,Research & Development,10312,3465,147,94,80,No,10k-15k,23,Travel_Rarely,12
+RM158,Research & Development,3346,11873,1145,75,80,Yes,Upto 5k,9,Travel_Rarely,20
+RM309,Research & Development,5660,17056,390,32,80,Yes,5k-10k,1,Non-Travel,13
+RM596,Research & Development,19246,25761,286,31,80,Yes,15k+,2,Travel_Rarely,12
+RM661,Research & Development,2380,13384,781,57,80,Yes,Upto 5k,2,Travel_Frequently,14
+RM675,Research & Development,10552,9255,1272,37,80,Yes,10k-15k,5,Travel_Rarely,13
+RM701,Research & Development,2479,26227,289,51,80,No,Upto 5k,2,Travel_Rarely,24
+RM939,Research & Development,2372,26076,848,88,80,No,Upto 5k,23,Travel_Rarely,12
+RM967,Research & Development,10008,12023,601,53,80,Yes,10k-15k,7,Travel_Rarely,14
+RM1010,Research & Development,19701,22456,1055,76,80,Yes,15k+,1,Travel_Rarely,21
+RM1302,Sales,16291,22577,350,52,80,No,15k+,2,Non-Travel,22
+RM1311,Research & Development,15787,21624,1216,87,80,Yes,15k+,15,Travel_Frequently,14
+RM1375,Sales,17875,11761,605,72,80,Yes,15k+,21,Travel_Rarely,13
+RM007,Research & Development,2670,9964,1324,81,80,Yes,Upto 5k,3,Travel_Rarely,20
+RM064,Sales,7637,2354,1435,99,80,No,5k-10k,25,Travel_Rarely,11
+RM071,Sales,5473,24668,1225,57,80,No,5k-10k,1,Travel_Frequently,11
+RM106,Human Resources,18844,21922,1420,32,80,No,15k+,2,Non-Travel,21
+RM226,Research & Development,2177,8456,142,70,80,No,Upto 5k,3,Travel_Rarely,17
+RM233,Human Resources,2267,25657,818,52,80,No,Upto 5k,6,Travel_Rarely,17
+RM744,Research & Development,13726,21829,715,69,80,Yes,10k-15k,2,Travel_Rarely,13
+RM759,Sales,11904,11038,1089,66,80,Yes,10k-15k,1,Travel_Rarely,14
+RM898,Sales,5171,16490,326,48,80,No,5k-10k,3,Travel_Rarely,17
+RM920,Research & Development,10512,20002,1429,67,80,No,10k-15k,18,Travel_Rarely,12
+RM412,Research & Development,19566,3854,422,41,80,No,15k+,7,Travel_Rarely,11
+RM428,Sales,10266,2845,1499,80,80,No,10k-15k,28,Travel_Frequently,19
+RM537,Sales,5405,11924,1179,84,80,No,5k-10k,16,Travel_Rarely,14
+RM880,Sales,5220,10893,696,52,80,Yes,5k-10k,7,Travel_Rarely,18
+RM1210,Research & Development,10883,20467,370,92,80,No,10k-15k,1,Travel_Rarely,20
