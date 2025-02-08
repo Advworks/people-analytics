@@ -1,0 +1,1 @@
+SELECT * FROM {{ ref('Job_Characteristics_v2') }}
